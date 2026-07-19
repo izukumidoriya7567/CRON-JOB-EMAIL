@@ -1,0 +1,7517 @@
+[
+  {
+    "name": "A. Sunil Bopardikar",
+    "company": "Accenture",
+    "email": "a.sunil.bopardikar@accenture.com"
+  },
+  {
+    "name": "Kumari Komal",
+    "company": "Genpact",
+    "email": "kumari.komal@genpact.com"
+  },
+  {
+    "name": "Archita Banerjee",
+    "company": "Capgemini",
+    "email": "archita.banerjee@capgemini.com"
+  },
+  {
+    "name": "Yuvraj Sharma",
+    "company": "PwC",
+    "email": "yuvraj.sharma@pwc.com"
+  },
+  {
+    "name": "Siddharth Jain",
+    "company": "EY",
+    "email": "siddharth.jain@in.ey.com"
+  },
+  {
+    "name": "Premanshu Pandey",
+    "company": "Zomato",
+    "email": "premanshu.pandey@zomato.com"
+  },
+  {
+    "name": "Bansdvik",
+    "company": "Amazon",
+    "email": "bansdvik@amazon.com"
+  },
+  {
+    "name": "Hrishikesh Sharma",
+    "company": "TCS",
+    "email": "hrishikesh.sharma@tcs.com"
+  },
+  {
+    "name": "Prashant Karn",
+    "company": "American Express",
+    "email": "prashant.karn1@aexp.com"
+  },
+  {
+    "name": "Dileep Mishra",
+    "company": "Blinkit",
+    "email": "dileep.mishra@grofers.com"
+  },
+  {
+    "name": "Ankit Khulbe",
+    "company": "NTT Data",
+    "email": "ankit.khulbe@nttdata.com"
+  },
+  {
+    "name": "Chahat Bhandari",
+    "company": "Paytm",
+    "email": "Chahat.bhandari@paytm.com"
+  },
+  {
+    "name": "Anushya M.",
+    "company": "Cognizant",
+    "email": "Anushya.m@cognizant.com"
+  },
+  {
+    "name": "Anjana Varmatc",
+    "company": "KPMG",
+    "email": "anjanavarmatc@kpmg.com"
+  },
+  {
+    "name": "Anushka Rungta",
+    "company": "Zepto",
+    "email": "ext-anushka.rungta@zeptonow.com"
+  },
+  {
+    "name": "Aman Pal",
+    "company": "Gartner",
+    "email": "aman.pal@gartner.com"
+  },
+  {
+    "name": "Aayushar",
+    "company": "Qualcomm",
+    "email": "aayushar@qti.qualcomm.com"
+  },
+  {
+    "name": "Pradip More",
+    "company": "Infosys",
+    "email": "pradip.more@infosys.com"
+  },
+  {
+    "name": "Aishwarya Khubchandani",
+    "company": "Reliance",
+    "email": "aishwarya3.k@ril.com"
+  },
+  {
+    "name": "Nookhan",
+    "company": "Deloitte",
+    "email": "nookhan@deloitte.com"
+  },
+  {
+    "name": "Khushboo Tiwari",
+    "company": "Flipkart",
+    "email": "khushbootiwari.vc@flipkart.com"
+  },
+  {
+    "name": "Ayush Goel",
+    "company": "EXL Service",
+    "email": "ayush.goel@exlservice.com"
+  },
+  {
+    "name": "Varun Sharma",
+    "company": "Delhivery",
+    "email": "varun.sharma1@delhivery.com"
+  },
+  {
+    "name": "Farhan Husain",
+    "company": "Nagarro",
+    "email": "farhan.husain@nagarro.com"
+  },
+  {
+    "name": "Nandani Rohra",
+    "company": "Credence",
+    "email": "Nandani.Rohra@in.credencerm.com"
+  },
+  {
+    "name": "Ritika Kherata",
+    "company": "Cars24",
+    "email": "ritika.kherata@cars24.com"
+  },
+  {
+    "name": "Richa Bajpai",
+    "company": "PUMA",
+    "email": "richa.bajpai@puma.com"
+  },
+  {
+    "name": "Mahima Tripathi",
+    "company": "upGrad",
+    "email": "mahima.tripathi@upgrad.com"
+  },
+  {
+    "name": "Vishakha Sonde",
+    "company": "PayU",
+    "email": "vishakha.sonde@payufin.com"
+  },
+  {
+    "name": "Amarjeet Singh",
+    "company": "Zupee",
+    "email": "amarjeet.singh@zupee.in"
+  },
+  {
+    "name": "Ankush Shukla",
+    "company": "S&P Global",
+    "email": "ankush.shukla@spglobal.com"
+  },
+  {
+    "name": "Vinay Srivastava",
+    "company": "QuessCorp",
+    "email": "vinay.srivastava@quesscorp.com"
+  },
+  {
+    "name": "Kasiraman Sethuraman",
+    "company": "Thermo Fisher",
+    "email": "kasiraman.sethuraman@thermofisher.com"
+  },
+  {
+    "name": "Charvi Srivastava",
+    "company": "TechMahindra",
+    "email": "charvi.srivastava@techmahindra.com"
+  },
+  {
+    "name": "Cheena Bhatt",
+    "company": "Hindustan Times",
+    "email": "cheena.bhatt@hindustantimes.com"
+  },
+  {
+    "name": "Kunal Srivastava",
+    "company": "Marriott",
+    "email": "Kunal.Srivastava@marriott.com"
+  },
+  {
+    "name": "Palani Murugan",
+    "company": "Sutherland Global",
+    "email": "palani.murugan@sutherlandglobal.com"
+  },
+  {
+    "name": "HR Team",
+    "company": "Daashi",
+    "email": "hr@daashi.co"
+  },
+  {
+    "name": "Mounika Jorka",
+    "company": "Orangeshark",
+    "email": "mounika.jorka@orangeshark.com"
+  },
+  {
+    "name": "Vanshika Bhagat",
+    "company": "Godigit",
+    "email": "vanshika.bhagat@godigit.com"
+  },
+  {
+    "name": "Harsh Singhania",
+    "company": "Navi",
+    "email": "harsh.singhania@navi.com"
+  },
+  {
+    "name": "Kaustuv Saikia",
+    "company": "XpressBees",
+    "email": "int.kaustuv.saikia@xpressbees.com"
+  },
+  {
+    "name": "TPA Bhattacharjee Satyaki",
+    "company": "Unacademy",
+    "email": "tpa-bhattacharjee.satyaki@unacademy.com"
+  },
+  {
+    "name": "Vivek Upadhyay",
+    "company": "Hitachi",
+    "email": "vivek.upadhyay@hitachi-payments.com"
+  },
+  {
+    "name": "Mohini Aggarwal",
+    "company": "Taggd",
+    "email": "mohini.aggarwal@taggd.in"
+  },
+  {
+    "name": "Aaskie Malhotra",
+    "company": "Axiom Technologies",
+    "email": "aaskie.malhotra@axiomtechnologies.com"
+  },
+  {
+    "name": "Athil KS",
+    "company": "Cult.fit",
+    "email": "athil.ks@cultfit.in"
+  },
+  {
+    "name": "Janhavi Nagwani",
+    "company": "Dataintelo",
+    "email": "janhavi.nagwani@dataintelo.com"
+  },
+  {
+    "name": "Rohit Halder",
+    "company": "Experis",
+    "email": "rohit.halder@in.experis.com"
+  },
+  {
+    "name": "Niyati Chhaya",
+    "company": "Hyperbots",
+    "email": "niyati.chhaya@hyprbots.com"
+  },
+  {
+    "name": "Niharika R.",
+    "company": "NoBroker",
+    "email": "niharika.r@nobroker.in"
+  },
+  {
+    "name": "Mageshwari S.",
+    "company": "Codework",
+    "email": "mageshwari.s@codework.ai"
+  },
+  {
+    "name": "",
+    "company": "eClerx",
+    "email": "yogita.mondhwani.c@eclerx.com"
+  },
+  {
+    "name": "",
+    "company": "Oracle",
+    "email": "narendra.parameswara@oracle.com"
+  },
+  {
+    "name": "",
+    "company": "Walmart",
+    "email": "ankitkumar.patel@walmart.com"
+  },
+  {
+    "name": "",
+    "company": "Blu-Smart",
+    "email": "anmol.jaggi@blu-smart.com"
+  },
+  {
+    "name": "",
+    "company": "Coca-Cola",
+    "email": "shrutisg@coca-cola.in"
+  },
+  {
+    "name": "",
+    "company": "IndusInd Bank",
+    "email": "pratikshya.mishra@indusind.com"
+  },
+  {
+    "name": "",
+    "company": "Times Group",
+    "email": "eram.dalwai@timesgroup.com"
+  },
+  {
+    "name": "",
+    "company": "Concentrix",
+    "email": "annesha.manna@concentrix.com"
+  },
+  {
+    "name": "",
+    "company": "Astrotalk",
+    "email": "hiring@astrotalk.com"
+  },
+  {
+    "name": "",
+    "company": "Kotak",
+    "email": "anu.sharma1@kotak.com"
+  },
+  {
+    "name": "",
+    "company": "Shadow Fax",
+    "email": "ahil.prashanth@shadowfax.in"
+  },
+  {
+    "name": "",
+    "company": "Thermo Fisher",
+    "email": "kasiraman.sethuraman@thermofisher.com"
+  },
+  {
+    "name": "",
+    "company": "Semantic Tech",
+    "email": "bhagyashree.dandwate@semantictech.in"
+  },
+  {
+    "name": "",
+    "company": "Oyo Rooms",
+    "email": "payal.shiwanekar@oyorooms.com"
+  },
+  {
+    "name": "",
+    "company": "yogabars",
+    "email": "shankar@yogabars.in"
+  },
+  {
+    "name": "",
+    "company": "Country Delight",
+    "email": "shashank@countrydelight.in"
+  },
+  {
+    "name": "",
+    "company": "Persistent Systems",
+    "email": "shweta_padhye@persistent.com"
+  },
+  {
+    "name": "",
+    "company": "Lodha Group",
+    "email": "gajendra.shrivash@lodhagroup.com"
+  },
+  {
+    "name": "",
+    "company": "PW Live",
+    "email": "ashutosh.1@pw.live"
+  },
+  {
+    "name": "",
+    "company": "Sahyadri Hospitals",
+    "email": "hr.lab@sahyadrihospitals.com"
+  },
+  {
+    "name": "",
+    "company": "TD Newton",
+    "email": "nidhi.kumari@tdnewton.com"
+  },
+  {
+    "name": "",
+    "company": "Ecom Express",
+    "email": "shiladitya.ghosh@ecomexpress.in"
+  },
+  {
+    "name": "",
+    "company": "Hexaware",
+    "email": "anitaj@hexaware.com"
+  },
+  {
+    "name": "",
+    "company": "Rupeek",
+    "email": "pradhan.ganesh.in@rupeek.com"
+  },
+  {
+    "name": "",
+    "company": "Birlasoft",
+    "email": "jyoti.hande@birlasoft.com"
+  },
+  {
+    "name": "",
+    "company": "BDO",
+    "email": "prathadesai@bdo.in"
+  },
+  {
+    "name": "",
+    "company": "Hilton",
+    "email": "lalit.kharkwal@hilton.com"
+  },
+  {
+    "name": "",
+    "company": "Marriott",
+    "email": "bandhana.pandey@marriott.com"
+  },
+  {
+    "name": "",
+    "company": "ZoloStays",
+    "email": "raghunandan.m@zolostays.com"
+  },
+  {
+    "name": "",
+    "company": "Courtyard",
+    "email": "mansi.saini@courtyard.com"
+  },
+  {
+    "name": "",
+    "company": "Hyatt",
+    "email": "anushree.kothalkar@hyatt.com"
+  },
+  {
+    "name": "",
+    "company": "Amara Raja",
+    "email": "jkc1@amararaja.com"
+  },
+  {
+    "name": "",
+    "company": "Dr. Reddy's",
+    "email": "shaiksalmasultana@drreddys.com"
+  },
+  {
+    "name": "",
+    "company": "ZeptoNow",
+    "email": "raj.shaikh@zeptonow.com"
+  },
+  {
+    "name": "",
+    "company": "HDFC Life",
+    "email": "pooja.r187@hdfclife.com"
+  },
+  {
+    "name": "",
+    "company": "Logic Planet",
+    "email": "ramya.c@logicplanet.com"
+  },
+  {
+    "name": "",
+    "company": "Le Meridien",
+    "email": "brajesh.chauhan@lemeridien.com"
+  },
+  {
+    "name": "",
+    "company": "Le Meridien",
+    "email": "rahul.mahindroo@lemeridien.com"
+  },
+  {
+    "name": "",
+    "company": "Aditya Birla Fashion & Retail",
+    "email": "nayanika@abfrl.adityabirla.com"
+  },
+  {
+    "name": "",
+    "company": "IDFC First Bank",
+    "email": "ankush.chander@idfcfirstbank.com"
+  },
+  {
+    "name": "",
+    "company": "CBRE",
+    "email": "vishal.chandra@cbre.com"
+  },
+  {
+    "name": "",
+    "company": "Yulu Bike",
+    "email": "rahul.kumar@yulu.bike"
+  },
+  {
+    "name": "",
+    "company": "PwC",
+    "email": "soumya.pathak@pwc.com"
+  },
+  {
+    "name": "",
+    "company": "Xceedance",
+    "email": "vaibhav.goel@xceedance.com"
+  },
+  {
+    "name": "",
+    "company": "IndusInd Bank",
+    "email": "pradeep.rkumar@indusind.com"
+  },
+  {
+    "name": "",
+    "company": "Michael Page",
+    "email": "shaivyasharma@michaelpage.co.in"
+  },
+  {
+    "name": "",
+    "company": "Zomato",
+    "email": "anil.saduwala@zomato.com"
+  },
+  {
+    "name": "",
+    "company": "HDFC Bank",
+    "email": "abhishek.paunikar@hdfcbank.com"
+  },
+  {
+    "name": "",
+    "company": "Realme",
+    "email": "v-dilip.parmar@realme.com"
+  },
+  {
+    "name": "",
+    "company": "DIL RJ Corp",
+    "email": "evita.srivastava@dil-rjcorp.com"
+  },
+  {
+    "name": "",
+    "company": "HDFC",
+    "email": "kanika.mahajan@hdfcbank.com"
+  },
+  {
+    "name": "",
+    "company": "Grofers",
+    "email": "dileep.mishra@grofers.com"
+  },
+  {
+    "name": "",
+    "company": "Mercedes-Benz",
+    "email": "careers-mbfsindia@mercedes-benz.com"
+  },
+  {
+    "name": "",
+    "company": "Redcliffe Labs",
+    "email": "bhawna.verma@redcliffelabs.com"
+  },
+  {
+    "name": "",
+    "company": "Deloitte",
+    "email": "suksubudhi@deloitte.com"
+  },
+  {
+    "name": "",
+    "company": "Gartner",
+    "email": "radhakrishnan.vaishnavi@gartner.com"
+  },
+  {
+    "name": "",
+    "company": "Yash",
+    "email": "monika.sharma@yash.com"
+  },
+  {
+    "name": "",
+    "company": "Sodexo",
+    "email": "vishakha.gonnade@sodexo.com"
+  },
+  {
+    "name": "",
+    "company": "Reliance Industries Limited (RIL)",
+    "email": "chandresh.posaria@ril.com"
+  },
+  {
+    "name": "",
+    "company": "Apollo Hospitals",
+    "email": "akshay_solim@apollohospitals.com"
+  },
+  {
+    "name": "",
+    "company": "Radisson Hotels",
+    "email": "alok.singh@radisson.com"
+  },
+  {
+    "name": "",
+    "company": "Airtel",
+    "email": "adithya.rajaraman@airtel.com"
+  },
+  {
+    "name": "",
+    "company": "Taj Hotels",
+    "email": "mahapatra.anurag@tajhotels.com"
+  },
+  {
+    "name": "",
+    "company": "The Lalit",
+    "email": "blrhre@thelalit.com"
+  },
+  {
+    "name": "",
+    "company": "Park Inn and Suites",
+    "email": "sathya.m@parkinnandsuites.com"
+  },
+  {
+    "name": "",
+    "company": "Craftech 360",
+    "email": "hr@craftech360.com"
+  },
+  {
+    "name": "",
+    "company": "Finatic Labs",
+    "email": "jobs@finaticlabs.com"
+  },
+  {
+    "name": "",
+    "company": "Backspace Tech",
+    "email": "careers@backspace.tech"
+  },
+  {
+    "name": "",
+    "company": "Zmediostech",
+    "email": "hr@zmediostech.com"
+  },
+  {
+    "name": "",
+    "company": "Atreya Innovations Pvt Ltd",
+    "email": "shruti.lonagre@atreyainnovations.com"
+  },
+  {
+    "name": "",
+    "company": "Actualisation Group",
+    "email": "hr@actualisation.ai"
+  },
+  {
+    "name": "",
+    "company": "Intellgus Services Pvt. Ltd.",
+    "email": "shefali@intellgus.us"
+  },
+  {
+    "name": "",
+    "company": "Graviton Research Capital LLP",
+    "email": "sukanya.pant@gravitontrading.com"
+  },
+  {
+    "name": "",
+    "company": "MM9 India",
+    "email": "sahaj@mm9india.com"
+  },
+  {
+    "name": "",
+    "company": "Annalect India",
+    "email": "vinay.prakash@annalect.com"
+  },
+  {
+    "name": "",
+    "company": "mTouch Labs Pvt Ltd",
+    "email": "venki.hr@mtouchlabs.com"
+  },
+  {
+    "name": "",
+    "company": "CustomerLabs",
+    "email": "sandhana.brindha@customerlabs.co"
+  },
+  {
+    "name": "",
+    "company": "AceQuant Research",
+    "email": "avi.shah@acequantresearch.com"
+  },
+  {
+    "name": "",
+    "company": "Codework",
+    "email": "mageshwari.s@codework.ai"
+  },
+  {
+    "name": "",
+    "company": "Agrikheti",
+    "email": "hr@agrikheti.com"
+  },
+  {
+    "name": "",
+    "company": "Tracking",
+    "email": "hrbp@tracking.me"
+  },
+  {
+    "name": "",
+    "company": "WeDapt",
+    "email": "anjali.uniyal@wedapt.in"
+  },
+  {
+    "name": "",
+    "company": "Propsoch",
+    "email": "divya@propsoch.com"
+  },
+  {
+    "name": "",
+    "company": "AsterDM Healthcare",
+    "email": "nida.masood@asterdmhealthcare.com"
+  },
+  {
+    "name": "",
+    "company": "Minimalix",
+    "email": "internships@minimalix.in"
+  },
+  {
+    "name": "",
+    "company": "Genpact",
+    "email": "shivangi.saini@genpact.com"
+  },
+  {
+    "name": "",
+    "company": "MartLenz Knowledge Services",
+    "email": "shruti.phatale@martlenz.com"
+  },
+  {
+    "name": "",
+    "company": "Excellonsoft",
+    "email": "sidharth@excellonsoft.com"
+  },
+  {
+    "name": "",
+    "company": "NovatechSET",
+    "email": "nmandavkar@novatechset.com"
+  },
+  {
+    "name": "",
+    "company": "Cygnup Capital",
+    "email": "contact@uniformcapital.in"
+  },
+  {
+    "name": "",
+    "company": "GK HR Consulting",
+    "email": "chanchalr@gkhrconsulting.com"
+  },
+  {
+    "name": "",
+    "company": "DPO&Co.",
+    "email": "HR@dpoandco.com"
+  },
+  {
+    "name": "",
+    "company": "Games24x7",
+    "email": "tarun.kumavat@games24x7.com"
+  },
+  {
+    "name": "",
+    "company": "Cloudstrats Technologies",
+    "email": "recruiters@cloudstrats.com"
+  },
+  {
+    "name": "",
+    "company": "Falcon Informatics",
+    "email": "careers@falconinformatics.com"
+  },
+  {
+    "name": "",
+    "company": "Leverage.biz",
+    "email": "pooja.jadon@leverageedu.com"
+  },
+  {
+    "name": "",
+    "company": "Zynsera Technologies",
+    "email": "career@zynsera.com"
+  },
+  {
+    "name": "",
+    "company": "Ava",
+    "email": "recruiter@avaintern.com"
+  },
+  {
+    "name": "",
+    "company": "Big Data Trunk",
+    "email": "deepa@bigdatatrunk.com"
+  },
+  {
+    "name": "",
+    "company": "Techolution",
+    "email": "aishwaryaa.ganesh@techolution.com"
+  },
+  {
+    "name": "",
+    "company": "Datatobiz",
+    "email": "faisal.hameed@datatobiz.com"
+  },
+  {
+    "name": "",
+    "company": "Techanic Infotech",
+    "email": "hr@techanicinfotech.com"
+  },
+  {
+    "name": "",
+    "company": "Sankey Business Solutions",
+    "email": "rutuja.s@sankeysolutions.com"
+  },
+  {
+    "name": "",
+    "company": "Quantum Funded",
+    "email": "teamHR@quantumfunded.in"
+  },
+  {
+    "name": "",
+    "company": "Instaresz Business Services",
+    "email": "triveni.pallothu@instaresz.com"
+  },
+  {
+    "name": "",
+    "company": "Versatile Commerce",
+    "email": "talent@versatilecommerce.com"
+  },
+  {
+    "name": "",
+    "company": "Bellavita",
+    "email": "somesh.malviya@idamwellness.com"
+  },
+  {
+    "name": "",
+    "company": "Acuity Knowledge Partners",
+    "email": "Durgesh.kumar@acuitykp.com"
+  },
+  {
+    "name": "",
+    "company": "inGrade",
+    "email": "career@ingrade.io"
+  },
+  {
+    "name": "",
+    "company": "Nexdigm Private Limited",
+    "email": "siddhi.narvankar@nexdigm.com"
+  },
+  {
+    "name": "",
+    "company": "Synchroni Global IT Solutions",
+    "email": "harikap@synchroni.ai"
+  },
+  {
+    "name": "",
+    "company": "tlregtech",
+    "email": "Mounica@tlregtech.com"
+  },
+  {
+    "name": "",
+    "company": "Primes Hictech",
+    "email": "hr@primesophictech.com"
+  },
+  {
+    "name": "",
+    "company": "MetaGeeks",
+    "email": "onica.singh@metageeks.tech"
+  },
+  {
+    "name": "",
+    "company": "Ingenium",
+    "email": "Pranav.kardam@codersbrain.com"
+  },
+  {
+    "name": "",
+    "company": "Brookn",
+    "email": "prajwal.p@brookn.com"
+  },
+  {
+    "name": "",
+    "company": "Hakuhodo India",
+    "email": "Careers@hakuhodoindia.com"
+  },
+  {
+    "name": "",
+    "company": "innodata",
+    "email": "Agoyal@innodata.com"
+  },
+  {
+    "name": "",
+    "company": "Skillected",
+    "email": "sachin@skillected.com"
+  },
+  {
+    "name": "",
+    "company": "Workie",
+    "email": "amgr.hr@workie.in"
+  },
+  {
+    "name": "",
+    "company": "Ventures Digital India",
+    "email": "hr@venturesdigitalindia.com"
+  },
+  {
+    "name": "",
+    "company": "Panto",
+    "email": "hiring@pantomax.co"
+  },
+  {
+    "name": "",
+    "company": "tramo",
+    "email": "hr@tramo.in"
+  },
+  {
+    "name": "",
+    "company": "Kristasoft.ai",
+    "email": "vicky.manora@kristasoft.com"
+  },
+  {
+    "name": "",
+    "company": "qalbit",
+    "email": "hr@qalbit.com"
+  },
+  {
+    "name": "",
+    "company": "Planystech",
+    "email": "sathyalakshmi@planystech.com"
+  },
+  {
+    "name": "",
+    "company": "Sensei",
+    "email": "connect@sensei.org.in"
+  },
+  {
+    "name": "",
+    "company": "Cars24",
+    "email": "pranjal.mehendiratta@cars24.com"
+  },
+  {
+    "name": "",
+    "company": "Pristine Market Insights",
+    "email": "HR@pristinemarketinsights.com"
+  },
+  {
+    "name": "",
+    "company": "AITMC Ventures Ltd.",
+    "email": "ta@avplinternational.com"
+  },
+  {
+    "name": "",
+    "company": "Primine Software",
+    "email": "hr@priminesoftware.com"
+  },
+  {
+    "name": "",
+    "company": "Zip Co",
+    "email": "anil.bhargava@zip.co"
+  },
+  {
+    "name": "",
+    "company": "Cleareye",
+    "email": "recruitment@cleareye.ai"
+  },
+  {
+    "name": "",
+    "company": "Clicky Technologies",
+    "email": "contact@clickytechnologies.com"
+  },
+  {
+    "name": "",
+    "company": "ALP Consulting",
+    "email": "careers@alpconsulting.in"
+  },
+  {
+    "name": "",
+    "company": "Aveosoft",
+    "email": "career@aveosoft.com"
+  },
+  {
+    "name": "",
+    "company": "Mitigata",
+    "email": "Jobs@mitigata.com"
+  },
+  {
+    "name": "",
+    "company": "WheelsEye",
+    "email": "manvi.agarwal@wheelseye.com"
+  },
+  {
+    "name": "",
+    "company": "Electrovese",
+    "email": "careers@electrovese.com"
+  },
+  {
+    "name": "",
+    "company": "Big Classes",
+    "email": "contact@bigclasses.ai"
+  },
+  {
+    "name": "",
+    "company": "VKAPS IT Solutions",
+    "email": "careers@vkaps.com"
+  },
+  {
+    "name": "",
+    "company": "Valion E Assets",
+    "email": "pratiksha.bhatia@valion.in"
+  },
+  {
+    "name": "",
+    "company": "BellaVita",
+    "email": "shreyas.dev@oneguardian.in"
+  },
+  {
+    "name": "",
+    "company": "Verdatriz",
+    "email": "sathyan.subbiah@verdatriz.com"
+  },
+  {
+    "name": "",
+    "company": "Chipper Creative",
+    "email": "manasi@chippercreative.com"
+  },
+  {
+    "name": "",
+    "company": "Brudite",
+    "email": "nirvika.s@brudite.com"
+  },
+  {
+    "name": "",
+    "company": "Vertex Group",
+    "email": "inderpreet.bajaj@vertexgroupofcompanies.com"
+  },
+  {
+    "name": "",
+    "company": "CollegePur",
+    "email": "ankit.hr@collegepur.com"
+  },
+  {
+    "name": "",
+    "company": "Frido",
+    "email": "simran.k@myfrido.com"
+  },
+  {
+    "name": "",
+    "company": "Flashreach",
+    "email": "ishaan@flashreach.io"
+  },
+  {
+    "name": "",
+    "company": "Hindustan Times",
+    "email": "devika.rastogi@partner.hindustantimes.com"
+  },
+  {
+    "name": "",
+    "company": "Zepa Analytics",
+    "email": "contact@zepanalytics.com"
+  },
+  {
+    "name": "",
+    "company": "Marwah Automobiles",
+    "email": "manager.admin@marwahautomobiles.com"
+  },
+  {
+    "name": "",
+    "company": "Saxon Weber",
+    "email": "Sharewell@saxonweber.com"
+  },
+  {
+    "name": "",
+    "company": "Etech Texas",
+    "email": "krishna.raval@etechtexas.com"
+  },
+  {
+    "name": "",
+    "company": "Upamp Solutions",
+    "email": "info@upampsolutions.co.in"
+  },
+  {
+    "name": "",
+    "company": "Axiata Digital Labs",
+    "email": "hrindo@axiatadigitallabs.com"
+  },
+  {
+    "name": "",
+    "company": "Hansa Cequity",
+    "email": "careers@hansacequity.com"
+  },
+  {
+    "name": "",
+    "company": "Philomath Research",
+    "email": "hema.kapoor@philomathresearch.com"
+  },
+  {
+    "name": "",
+    "company": "Mello",
+    "email": "saurav@mellocontent.com"
+  },
+  {
+    "name": "",
+    "company": "Technokrate",
+    "email": "resume@technokrate.com"
+  },
+  {
+    "name": "",
+    "company": "Coastal Seven Consulting",
+    "email": "ravir@coastalseven.com"
+  },
+  {
+    "name": "",
+    "company": "C2LBIZ",
+    "email": "sanket.deo@c2lbiz.com"
+  },
+  {
+    "name": "",
+    "company": "Mesmerise",
+    "email": "shweta.thorat@mesmerise.co.in"
+  },
+  {
+    "name": "",
+    "company": "Red Fibre",
+    "email": "hr@redfibre.co"
+  },
+  {
+    "name": "",
+    "company": "Deepforrest.ai",
+    "email": "ramu.chilakamarri@deepforrest.ai"
+  },
+  {
+    "name": "",
+    "company": "Workfall",
+    "email": "mohima.chakravorty@workfall.com"
+  },
+  {
+    "name": "",
+    "company": "Sunstone",
+    "email": "akshit.verma@sunstone.in"
+  },
+  {
+    "name": "",
+    "company": "INFSPL",
+    "email": "contact@infspl.com"
+  },
+  {
+    "name": "",
+    "company": "Tagbin",
+    "email": "annu.bharti@tagbin.in"
+  },
+  {
+    "name": "",
+    "company": "iCapotech",
+    "email": "rishikesh.dighe@livingthings.ai"
+  },
+  {
+    "name": "",
+    "company": "Data Center Company",
+    "email": "roli.mishra@netforchoice.com"
+  },
+  {
+    "name": "",
+    "company": "Zupee",
+    "email": "naina.sharma@zupee.in"
+  },
+  {
+    "name": "",
+    "company": "Genpact",
+    "email": "kumari.komal@genpact.com"
+  },
+  {
+    "name": "",
+    "company": "SquareOps",
+    "email": "anjali@squareops.com"
+  },
+  {
+    "name": "",
+    "company": "Fidel Softech Ltd",
+    "email": "prajakta.sable@fidelsoftech.com"
+  },
+  {
+    "name": "",
+    "company": "Autviz Solutions",
+    "email": "hr@autviz.in"
+  },
+  {
+    "name": "",
+    "company": "Xsol",
+    "email": "hr@xsol.ai"
+  },
+  {
+    "name": "",
+    "company": "Temperate Technologies",
+    "email": "info@temperate.tech"
+  },
+  {
+    "name": "",
+    "company": "Ospyn",
+    "email": "akshara.suresh@ospyn.com"
+  },
+  {
+    "name": "",
+    "company": "Etheradiamonds",
+    "email": "anima@etheradiamonds.com"
+  },
+  {
+    "name": "",
+    "company": "Prakhar Softwares",
+    "email": "ritu.sharma@prakharsoftwares.com"
+  },
+  {
+    "name": "",
+    "company": "DeepMatrix",
+    "email": "careers@deepmatrix.io"
+  },
+  {
+    "name": "",
+    "company": "OMR Global",
+    "email": "hr@omrglobal.com"
+  },
+  {
+    "name": "",
+    "company": "Althi Solutions",
+    "email": "hr@althisolutions.com"
+  },
+  {
+    "name": "",
+    "company": "lmdconsulting",
+    "email": "sonia.malik@lmdconsulting.com"
+  },
+  {
+    "name": "",
+    "company": "Qcentro",
+    "email": "hr@qcentro.com"
+  },
+  {
+    "name": "",
+    "company": "Alphasqmax",
+    "email": "hr@alphasqmax.com"
+  },
+  {
+    "name": "",
+    "company": "Futurion Tech",
+    "email": "admin@futuriontech.in"
+  },
+  {
+    "name": "",
+    "company": "MakeTimeForGood",
+    "email": "reshma@livecjobs.com"
+  },
+  {
+    "name": "",
+    "company": "FS Life (FableStreet, Pink Fort, March)",
+    "email": "careers@fablestreet.com"
+  },
+  {
+    "name": "",
+    "company": "The Fast Way",
+    "email": "hr@thefastway.in"
+  },
+  {
+    "name": "",
+    "company": "Dexler Energy",
+    "email": "jatan.mehta@dexlerenergy.com"
+  },
+  {
+    "name": "",
+    "company": "Demandify Media",
+    "email": "hr@demandifymedia.com"
+  },
+  {
+    "name": "",
+    "company": "Metizsoft Solutions",
+    "email": "career@metizsoft.com"
+  },
+  {
+    "name": "",
+    "company": "Sprouts",
+    "email": "career@sprouts.ai"
+  },
+  {
+    "name": "",
+    "company": "TWSOL",
+    "email": "swagatika.s@twsol.com"
+  },
+  {
+    "name": "",
+    "company": "Axiom Technologies",
+    "email": "Aaskie.malhotra@axiomtechnologies.com"
+  },
+  {
+    "name": "",
+    "company": "Gmware",
+    "email": "apply@gmware.com"
+  },
+  {
+    "name": "",
+    "company": "Pet Prakalp",
+    "email": "hr@petprakalp.com"
+  },
+  {
+    "name": "",
+    "company": "Sustain & Company",
+    "email": "founders@sustainandcompany.com"
+  },
+  {
+    "name": "",
+    "company": "VKAPS",
+    "email": "careers@vkaps.com"
+  },
+  {
+    "name": "",
+    "company": "DataToBiz",
+    "email": "shrishti.sharma@datatobiz.com"
+  },
+  {
+    "name": "",
+    "company": "Aqua Exchange",
+    "email": "careers@aquaexchange.com"
+  },
+  {
+    "name": "",
+    "company": "KFintech",
+    "email": "yogesh.soni@kfintech.com"
+  },
+  {
+    "name": "",
+    "company": "RipenApps",
+    "email": "hr@ripenapps.com"
+  },
+  {
+    "name": "",
+    "company": "Cyanous",
+    "email": "geetharani.v@cyanous.com"
+  },
+  {
+    "name": "",
+    "company": "One Data Software",
+    "email": "hire-india@onedatasoftware.com"
+  },
+  {
+    "name": "",
+    "company": "Fernwood Porcelain",
+    "email": "dushanthas@fernwoodporcelain.com"
+  },
+  {
+    "name": "",
+    "company": "Apexon",
+    "email": "arti.kumari@apexon.com"
+  },
+  {
+    "name": "",
+    "company": "XLR8 Talent Search",
+    "email": "recruiter@xlr8talentsearch.com"
+  },
+  {
+    "name": "",
+    "company": "Menrv AI",
+    "email": "hr@menrv.ai"
+  },
+  {
+    "name": "",
+    "company": "Orahi",
+    "email": "hr@orahi.com"
+  },
+  {
+    "name": "",
+    "company": "Orahi",
+    "email": "michelle.tradle@orahi.com"
+  },
+  {
+    "name": "",
+    "company": "Quantasis",
+    "email": "hr@quantasis.com"
+  },
+  {
+    "name": "",
+    "company": "Veracity India",
+    "email": "pratik@veracity-india.com"
+  },
+  {
+    "name": "",
+    "company": "GHO Care",
+    "email": "careers@gho.care"
+  },
+  {
+    "name": "",
+    "company": "Teksands AI",
+    "email": "trunali.m@teksands.ai"
+  },
+  {
+    "name": "",
+    "company": "AnalyticsLiv",
+    "email": "hr@analyticsliv.com"
+  },
+  {
+    "name": "",
+    "company": "AtlantaSys",
+    "email": "chetna@atlantasys.com"
+  },
+  {
+    "name": "",
+    "company": "Digimantra",
+    "email": "surbhi.saraswati@digimantra.com"
+  },
+  {
+    "name": "",
+    "company": "Pranathiss",
+    "email": "bhavani@pranathiss.com"
+  },
+  {
+    "name": "",
+    "company": "Propsoch",
+    "email": "ridhima@propsoch.com"
+  },
+  {
+    "name": "",
+    "company": "Ollosoft",
+    "email": "megha.sharma@ollosoft.com"
+  },
+  {
+    "name": "",
+    "company": "Jobbinge",
+    "email": "mayank.agarwal@jobbinge.in"
+  },
+  {
+    "name": "",
+    "company": "Neewee AI",
+    "email": "careers@neewee.ai"
+  },
+  {
+    "name": "",
+    "company": "Cloudify",
+    "email": "dd@cloudify.biz"
+  },
+  {
+    "name": "",
+    "company": "Warpdrive Tech",
+    "email": "komal@warpdrivetech.in"
+  },
+  {
+    "name": "",
+    "company": "Genius Consultant",
+    "email": "roshan_fssr@geniusconsultant.com"
+  },
+  {
+    "name": "",
+    "company": "Genpact",
+    "email": "rajni.bala@genpact.com"
+  },
+  {
+    "name": "",
+    "company": "Hakuhodo India",
+    "email": "apoorva.kakrani@hakuhodoindia.com"
+  },
+  {
+    "name": "",
+    "company": "Mitigata",
+    "email": "bhavana.s@mitigata.com"
+  },
+  {
+    "name": "",
+    "company": "Zee",
+    "email": "amrita.mahimkar@zee.com"
+  },
+  {
+    "name": "",
+    "company": "Wiso",
+    "email": "sorna@wiso.co.in"
+  },
+  {
+    "name": "",
+    "company": "Coastal Seven",
+    "email": "tejaswinip@coastalseven.com"
+  },
+  {
+    "name": "",
+    "company": "HyprBots",
+    "email": "niyati.chhaya@hyprbots.com"
+  },
+  {
+    "name": "",
+    "company": "GIM",
+    "email": "srip@gim.ac.in"
+  },
+  {
+    "name": "",
+    "company": "HDFC Bank",
+    "email": "tanveersingh.gupta@hdfcbank.com"
+  },
+  {
+    "name": "",
+    "company": "Swastika",
+    "email": "aparna.pathak@swastika.co.in"
+  },
+  {
+    "name": "",
+    "company": "WSFX",
+    "email": "mayuri.c@wsfx.in"
+  },
+  {
+    "name": "",
+    "company": "NeverHunt",
+    "email": "venky@neverhunt.io"
+  },
+  {
+    "name": "",
+    "company": "Zaucto",
+    "email": "thrifty@zaucto.com"
+  },
+  {
+    "name": "",
+    "company": "Sparkl",
+    "email": "dipak.biswal@sparkl.me"
+  },
+  {
+    "name": "",
+    "company": "FanTV",
+    "email": "monika.mukhija@fantv.in"
+  },
+  {
+    "name": "",
+    "company": "Gaido Health",
+    "email": "careers@gaido-health.com"
+  },
+  {
+    "name": "",
+    "company": "How to Crack Interviews",
+    "email": "contact@howtocrackinterviews.com"
+  },
+  {
+    "name": "",
+    "company": "Nvest",
+    "email": "aarti.gupta@nvest.in"
+  },
+  {
+    "name": "",
+    "company": "Flipkart",
+    "email": "ishtiyaque.ansari@flipkart.com"
+  },
+  {
+    "name": "",
+    "company": "CS Ventures",
+    "email": "jogebharadwaj@csventures.in"
+  },
+  {
+    "name": "",
+    "company": "GMware",
+    "email": "apply@gmware.com"
+  },
+  {
+    "name": "",
+    "company": "Dotix",
+    "email": "hr@dotix.io"
+  },
+  {
+    "name": "",
+    "company": "Cars24",
+    "email": "riya.jolly@cars24.com"
+  },
+  {
+    "name": "",
+    "company": "Animall",
+    "email": "neha.rawat@animall.in"
+  },
+  {
+    "name": "",
+    "company": "Webcraft IT",
+    "email": "hr@webcraftit.com"
+  },
+  {
+    "name": "",
+    "company": "SaveSage",
+    "email": "mohit@savesage.club"
+  },
+  {
+    "name": "",
+    "company": "UNHR",
+    "email": "sanah.bhola@unhr.in"
+  },
+  {
+    "name": "",
+    "company": "Karexpert",
+    "email": "manvendra.dubey@karexpert.com"
+  },
+  {
+    "name": "",
+    "company": "KAS Commerce",
+    "email": "hr@kascommerce.com"
+  },
+  {
+    "name": "",
+    "company": "Procol",
+    "email": "liza.jain@procol.in"
+  },
+  {
+    "name": "",
+    "company": "Obeetee",
+    "email": "aman@obeetee.com"
+  },
+  {
+    "name": "",
+    "company": "AIHiFusion",
+    "email": "careers@aihifusion.com"
+  },
+  {
+    "name": "",
+    "company": "Zone Media",
+    "email": "yashika@zonemedia.co"
+  },
+  {
+    "name": "",
+    "company": "Shiprocket",
+    "email": "pawan.dobhal@shiprocket.com"
+  },
+  {
+    "name": "",
+    "company": "Luxmi Group",
+    "email": "rahul@luxmigroup.in"
+  },
+  {
+    "name": "",
+    "company": "ITTI",
+    "email": "swaty.nautiyal@itti.com"
+  },
+  {
+    "name": "",
+    "company": "To The New",
+    "email": "aditya.chamoli@tothenew.com"
+  },
+  {
+    "name": "",
+    "company": "Gloven",
+    "email": "careers@gloven.in"
+  },
+  {
+    "name": "",
+    "company": "Exonect",
+    "email": "gayatri.s@exonect.com"
+  },
+  {
+    "name": "",
+    "company": "Roxiler",
+    "email": "anjani.gochade@roxiler.com"
+  },
+  {
+    "name": "",
+    "company": "Xarterian",
+    "email": "akshay.jain@xarterian.com"
+  },
+  {
+    "name": "",
+    "company": "Experis",
+    "email": "puja.saha@in.experis.com"
+  },
+  {
+    "name": "",
+    "company": "ANZ",
+    "email": "vindhya.moganna@anz.com"
+  },
+  {
+    "name": "",
+    "company": "Puma",
+    "email": "richa.bajpai@puma.com"
+  },
+  {
+    "name": "",
+    "company": "Aquis Search",
+    "email": "khushboobhatia@aquissearch.com"
+  },
+  {
+    "name": "",
+    "company": "Mahindra",
+    "email": "careers-accelo@mahindra.com"
+  },
+  {
+    "name": "",
+    "company": "SRLPL",
+    "email": "mis@srlpl.in"
+  },
+  {
+    "name": "",
+    "company": "BeyondWalls",
+    "email": "vaishnavi.tamhane@beyondwalls.com"
+  },
+  {
+    "name": "",
+    "company": "Yanti",
+    "email": "romesh@yanti.co.in"
+  },
+  {
+    "name": "",
+    "company": "Taxilla",
+    "email": "vgopisetty@taxilla.com"
+  },
+  {
+    "name": "",
+    "company": "Yangpoo",
+    "email": "talent@yangpoo.com"
+  },
+  {
+    "name": "",
+    "company": "Internpark",
+    "email": "info@internpark.com"
+  },
+  {
+    "name": "",
+    "company": "Vortique AI",
+    "email": "careers@vortique.ai"
+  },
+  {
+    "name": "",
+    "company": "Sandmartin",
+    "email": "nickson.yesudass@sandmartin.com"
+  },
+  {
+    "name": "",
+    "company": "Christ University",
+    "email": "gratitudeproject@christuniversity.in"
+  },
+  {
+    "name": "",
+    "company": "CrossML",
+    "email": "careers@crossml.com"
+  },
+  {
+    "name": "",
+    "company": "PepeLeads",
+    "email": "harry.singh@pepeleads.com"
+  },
+  {
+    "name": "",
+    "company": "Harito Life",
+    "email": "contact@harito.life"
+  },
+  {
+    "name": "",
+    "company": "Adept Consultants",
+    "email": "pavanik@adeptconsultants.com"
+  },
+  {
+    "name": "",
+    "company": "Omnicom Media Group",
+    "email": "rishika.puthran@omnicommediagroup.com"
+  },
+  {
+    "name": "",
+    "company": "Eros Technologies",
+    "email": "ashish@erostechnologies.com"
+  },
+  {
+    "name": "",
+    "company": "InspireStek",
+    "email": "hr@inspirestek.com"
+  },
+  {
+    "name": "",
+    "company": "Rosh AI",
+    "email": "careers@rosh.ai"
+  },
+  {
+    "name": "",
+    "company": "Brightlife Care",
+    "email": "dhruv.sangwan@brightlifecare.com"
+  },
+  {
+    "name": "",
+    "company": "Codesis",
+    "email": "careers@codesis.io"
+  },
+  {
+    "name": "",
+    "company": "Hitachi Payments",
+    "email": "vivek.upadhyay@hitachi-payments.com"
+  },
+  {
+    "name": "",
+    "company": "Vitto Money",
+    "email": "poonam@vitto.money"
+  },
+  {
+    "name": "",
+    "company": "Martlenz",
+    "email": "vaishnavi.pawar@martlenz.com"
+  },
+  {
+    "name": "",
+    "company": "Wise Trunk",
+    "email": "explore@thewisetrunk.com"
+  },
+  {
+    "name": "",
+    "company": "Zyoin",
+    "email": "aarohi.mehrotra@zyoin.com"
+  },
+  {
+    "name": "",
+    "company": "Rudra Research",
+    "email": "rutuja.jadhav@rudraresearch.in"
+  },
+  {
+    "name": "",
+    "company": "KNG Tech Law",
+    "email": "saumyagupta@kngtechlaw.com"
+  },
+  {
+    "name": "",
+    "company": "Katalyst Tech",
+    "email": "apaul@katalysttech.com"
+  },
+  {
+    "name": "",
+    "company": "Whoppl",
+    "email": "careers@whoppl.com"
+  },
+  {
+    "name": "",
+    "company": "CodeGavel",
+    "email": "hello@codegavel.com"
+  },
+  {
+    "name": "",
+    "company": "Hindustan Times",
+    "email": "cheena.bhatt@hindustantimes.com"
+  },
+  {
+    "name": "",
+    "company": "Arisers",
+    "email": "info@arisers.co.in"
+  },
+  {
+    "name": "",
+    "company": "PicoXpress",
+    "email": "contact@picoxpress.com"
+  },
+  {
+    "name": "",
+    "company": "Digiratina",
+    "email": "careers@digiratina.com"
+  },
+  {
+    "name": "",
+    "company": "Plug Ventures",
+    "email": "info@plug.ventures"
+  },
+  {
+    "name": "",
+    "company": "Try Idol Tech",
+    "email": "hr@tryidoltech.com"
+  },
+  {
+    "name": "",
+    "company": "Aston Carter",
+    "email": "sagbarik@astoncarter.com"
+  },
+  {
+    "name": "",
+    "company": "Taggd",
+    "email": "riya.singh1@taggd.in"
+  },
+  {
+    "name": "",
+    "company": "IIFL Home Loans",
+    "email": "sanjaya.patra@iiflhomeloans.com"
+  },
+  {
+    "name": "",
+    "company": "Trigear",
+    "email": "hr@trigear.in"
+  },
+  {
+    "name": "",
+    "company": "Actualisation AI",
+    "email": "garima@actualisation.ai"
+  },
+  {
+    "name": "",
+    "company": "Intertec Systems",
+    "email": "keerthana.sn@intertecsys.com"
+  },
+  {
+    "name": "",
+    "company": "Acespritech",
+    "email": "hr@acespritech.com"
+  },
+  {
+    "name": "",
+    "company": "Patseer",
+    "email": "monali@patseer.com"
+  },
+  {
+    "name": "",
+    "company": "Cerebrent",
+    "email": "prakriti@cerebrent.com"
+  },
+  {
+    "name": "",
+    "company": "CollabX",
+    "email": "nishtha@collabx.in"
+  },
+  {
+    "name": "",
+    "company": "Schbang",
+    "email": "lloyd.dantis@schbang.com"
+  },
+  {
+    "name": "",
+    "company": "Data Flair Training",
+    "email": "info@data-flair.training"
+  },
+  {
+    "name": "",
+    "company": "Gartner",
+    "email": "garima.rai@gartner.com"
+  },
+  {
+    "name": "",
+    "company": "Patseer",
+    "email": "asingh@patseer.com"
+  },
+  {
+    "name": "",
+    "company": "Firstcalli",
+    "email": "honey@firstcalli.com"
+  },
+  {
+    "name": "",
+    "company": "Infosys",
+    "email": "mrinal_kaul01@infosys.com"
+  },
+  {
+    "name": "",
+    "company": "Novotreeminds",
+    "email": "anisha@novotreeminds.com"
+  },
+  {
+    "name": "",
+    "company": "IBR Infotech",
+    "email": "hr2@ibrinfotech.com"
+  },
+  {
+    "name": "",
+    "company": "Cambridge Infotech",
+    "email": "hr@cambridgeinfotech.io"
+  },
+  {
+    "name": "",
+    "company": "Adaptnxt",
+    "email": "careers@adaptnxt.com"
+  },
+  {
+    "name": "",
+    "company": "Flipkart",
+    "email": "devdatta.mandal@flipkart.com"
+  },
+  {
+    "name": "",
+    "company": "Eventbeep",
+    "email": "contact@eventbeep.com"
+  },
+  {
+    "name": "",
+    "company": "Sunergeo India Corporation",
+    "email": "recruiter@sunergeoindiacorporation.com"
+  },
+  {
+    "name": "",
+    "company": "Mindtel Global",
+    "email": "yeshmini@mindtelglobal.com"
+  },
+  {
+    "name": "",
+    "company": "Smartcoin",
+    "email": "himanshu.kanodia@smartcoin.co.in"
+  },
+  {
+    "name": "",
+    "company": "Kaerus World",
+    "email": "sandhya@kaerusworld.com"
+  },
+  {
+    "name": "",
+    "company": "Zeoauto",
+    "email": "nidhi@zeoauto.in"
+  },
+  {
+    "name": "",
+    "company": "Billionhearts",
+    "email": "ankit.sharma@billionhearts.co"
+  },
+  {
+    "name": "",
+    "company": "Gravitones",
+    "email": "hr@gravitones.com"
+  },
+  {
+    "name": "",
+    "company": "Podtech",
+    "email": "pragati.balhara@podtech.com"
+  },
+  {
+    "name": "",
+    "company": "Maathsaab",
+    "email": "hello@maathsaab.com"
+  },
+  {
+    "name": "",
+    "company": "Appzest",
+    "email": "hr@appzest.io"
+  },
+  {
+    "name": "",
+    "company": "Cognitii",
+    "email": "jhillika@cognitii.com"
+  },
+  {
+    "name": "",
+    "company": "Synarion IT",
+    "email": "hr@synarionit.com"
+  },
+  {
+    "name": "",
+    "company": "Saathi",
+    "email": "rishav.kumar@saathi.in"
+  },
+  {
+    "name": "",
+    "company": "Adda247",
+    "email": "sonia.agasti@adda247.com"
+  },
+  {
+    "name": "",
+    "company": "Foreignadmits",
+    "email": "nikhil@foreignadmits.com"
+  },
+  {
+    "name": "",
+    "company": "Netcore Cloud",
+    "email": "noyonika.das@netcorecloud.com"
+  },
+  {
+    "name": "",
+    "company": "Qapita",
+    "email": "hiringteam@qapita.com"
+  },
+  {
+    "name": "",
+    "company": "AcceleratorX",
+    "email": "product@acceleratorx.co"
+  },
+  {
+    "name": "",
+    "company": "Talentloopet",
+    "email": "careers@talentloopet.com"
+  },
+  {
+    "name": "",
+    "company": "Modinity",
+    "email": "nadia.azzah@modinity.com"
+  },
+  {
+    "name": "",
+    "company": "Multiplier Solutions",
+    "email": "khushboo@multipliersolutions.com"
+  },
+  {
+    "name": "",
+    "company": "Interaxic Services",
+    "email": "hr@interaxicservices.com"
+  },
+  {
+    "name": "",
+    "company": "AUN Digital",
+    "email": "hr@aundigital.ae"
+  },
+  {
+    "name": "",
+    "company": "Niramaya Health",
+    "email": "arnav@niramayahealth.co.in"
+  },
+  {
+    "name": "",
+    "company": "Stanza Living",
+    "email": "asta.garg@stanzaliving.com"
+  },
+  {
+    "name": "",
+    "company": "Revalgo AI",
+    "email": "careers@revalgo.ai"
+  },
+  {
+    "name": "",
+    "company": "Omega Infotech",
+    "email": "contact@omegainfotech.in"
+  },
+  {
+    "name": "",
+    "company": "Coledab2B",
+    "email": "saikiran.ravanaveni@coledab2b.com"
+  },
+  {
+    "name": "",
+    "company": "Techolution",
+    "email": "falaque.ashna@techolution.com"
+  },
+  {
+    "name": "",
+    "company": "Ampcus Tech",
+    "email": "akshay.divekar@ampcustech.com"
+  },
+  {
+    "name": "",
+    "company": "The Growth Velocity",
+    "email": "suraj.sharma@thegrowthvelocity.com"
+  },
+  {
+    "name": "",
+    "company": "Genpact",
+    "email": "ishika.bodhwani@genpact.com"
+  },
+  {
+    "name": "",
+    "company": "Marwari Catalysts",
+    "email": "hr@marwaricatalysts.com"
+  },
+  {
+    "name": "",
+    "company": "Flipkart",
+    "email": "khushbootiwari.vc@flipkart.com"
+  },
+  {
+    "name": "",
+    "company": "JHS Associates",
+    "email": "sonali.saxena@jhsassociatesllp.in"
+  },
+  {
+    "name": "",
+    "company": "Pinesphere",
+    "email": "hr@pinesphere.com"
+  },
+  {
+    "name": "",
+    "company": "TalentGlider",
+    "email": "jobhelp@talentglider.com"
+  },
+  {
+    "name": "",
+    "company": "Techno Derivation",
+    "email": "hr@technoderivation.com"
+  },
+  {
+    "name": "",
+    "company": "Novotreeminds",
+    "email": "harshithab@novotreeminds.com"
+  },
+  {
+    "name": "",
+    "company": "Codelabs",
+    "email": "manager.campus@codelabs.co.in"
+  },
+  {
+    "name": "",
+    "company": "Apptunix",
+    "email": "sneha.thakur@apptunix.com"
+  },
+  {
+    "name": "",
+    "company": "Mahindra",
+    "email": "abrol.sumit@mahindra.com"
+  },
+  {
+    "name": "",
+    "company": "Logicladder",
+    "email": "shruti.mondal@logicladder.com"
+  },
+  {
+    "name": "",
+    "company": "Kindlebit",
+    "email": "anshu.devi@kindlebit.org"
+  },
+  {
+    "name": "",
+    "company": "Comets",
+    "email": "aditya@comets.in"
+  },
+  {
+    "name": "",
+    "company": "Deloitte",
+    "email": "nookhan@deloitte.com"
+  },
+  {
+    "name": "",
+    "company": "Khidki Homes",
+    "email": "ritesh@khidki.homes"
+  },
+  {
+    "name": "",
+    "company": "Mintifi",
+    "email": "bhoomika.sadhwani@mintifi.com"
+  },
+  {
+    "name": "",
+    "company": "Cloudare",
+    "email": "nithya@cloudare.in"
+  },
+  {
+    "name": "",
+    "company": "Aapmor",
+    "email": "careers@aapmor.com"
+  },
+  {
+    "name": "",
+    "company": "Asprcm Solutions",
+    "email": "recruitment@asprcmsolutions.com"
+  },
+  {
+    "name": "",
+    "company": "Mintwit",
+    "email": "info@mintwit.in"
+  },
+  {
+    "name": "",
+    "company": "RWIT",
+    "email": "hr@rwit.io"
+  },
+  {
+    "name": "",
+    "company": "Veripoint Tech",
+    "email": "hr@veripointtech.com"
+  },
+  {
+    "name": "",
+    "company": "Implere Tech",
+    "email": "siri.p@impleretech.com"
+  },
+  {
+    "name": "",
+    "company": "JBS Academy",
+    "email": "info@jbsacademy.com"
+  },
+  {
+    "name": "",
+    "company": "Datalens",
+    "email": "careers@datalens.in"
+  },
+  {
+    "name": "",
+    "company": "Triazinesoft",
+    "email": "nehac@triazinesoft.com"
+  },
+  {
+    "name": "",
+    "company": "Celsius IT",
+    "email": "info@celsiusit.com"
+  },
+  {
+    "name": "",
+    "company": "Slidetech",
+    "email": "subodh.jasrotia@slidetech.in"
+  },
+  {
+    "name": "",
+    "company": "Pranathiss",
+    "email": "giribabu@pranathiss.com"
+  },
+  {
+    "name": "",
+    "company": "Hiked",
+    "email": "info@hiked.com"
+  },
+  {
+    "name": "",
+    "company": "QI-Cap",
+    "email": "intern2025@qi-cap.com"
+  },
+  {
+    "name": "",
+    "company": "Citrusleaf",
+    "email": "support@citrusleaf.in"
+  },
+  {
+    "name": "",
+    "company": "Iopex",
+    "email": "alexalfred.john@iopex.com"
+  },
+  {
+    "name": "",
+    "company": "Croissance CR",
+    "email": "jobs1@croissancecr.in"
+  },
+  {
+    "name": "",
+    "company": "Quark9",
+    "email": "apply@quark9.com"
+  },
+  {
+    "name": "",
+    "company": "SP Global",
+    "email": "ankush.shukla@spglobal.com"
+  },
+  {
+    "name": "",
+    "company": "Otomeyt AI",
+    "email": "aarthi.s@otomeyt.ai"
+  },
+  {
+    "name": "",
+    "company": "Urja Mobility",
+    "email": "hr@urjamobility.in"
+  },
+  {
+    "name": "",
+    "company": "Vedantu",
+    "email": "mayank.raj1@vedantu.com"
+  },
+  {
+    "name": "",
+    "company": "Sabpaisa",
+    "email": "alka.shrivastava@sabpaisa.in"
+  },
+  {
+    "name": "",
+    "company": "Aster DM Healthcare",
+    "email": "mary.jacintha@asterdmhealthcare.in"
+  },
+  {
+    "name": "",
+    "company": "HEPL",
+    "email": "madhavi.pg@hepl.com"
+  },
+  {
+    "name": "",
+    "company": "Akimbo Media",
+    "email": "sahir@akimbomedia.in"
+  },
+  {
+    "name": "",
+    "company": "Canopus Infosystems",
+    "email": "mansi.chaurasia@canopusinfosystems.com"
+  },
+  {
+    "name": "",
+    "company": "Dvara",
+    "email": "jobs.research@dvara.com"
+  },
+  {
+    "name": "",
+    "company": "Complere Infosystem",
+    "email": "hr@complereinfosystem.com"
+  },
+  {
+    "name": "",
+    "company": "The Time Solutions",
+    "email": "sales@thetimesolutions.com"
+  },
+  {
+    "name": "",
+    "company": "Kessy Consultancy",
+    "email": "vinay.tiwari@kessyconsultancy.com"
+  },
+  {
+    "name": "",
+    "company": "Unico Connect",
+    "email": "swapnil.gaikwad@unicoconnect.com"
+  },
+  {
+    "name": "",
+    "company": "Fleetronix",
+    "email": "humanresources@fleetronix.io"
+  },
+  {
+    "name": "",
+    "company": "Coding Spoon",
+    "email": "info@codingspoon.com"
+  },
+  {
+    "name": "",
+    "company": "Sleepiz",
+    "email": "career@sleepiz.com"
+  },
+  {
+    "name": "",
+    "company": "Skyleaf Global",
+    "email": "kanika@skyleaf.global"
+  },
+  {
+    "name": "",
+    "company": "Nivvesh",
+    "email": "parth@nivvesh.com"
+  },
+  {
+    "name": "",
+    "company": "Shopmiri",
+    "email": "info@shopmiri.in"
+  },
+  {
+    "name": "",
+    "company": "Edhitch",
+    "email": "info@edhitch.com"
+  },
+  {
+    "name": "",
+    "company": "Zuru",
+    "email": "chinkal.shah@zuru.com"
+  },
+  {
+    "name": "",
+    "company": "Spruce Tech",
+    "email": "rreddy@sprucetech.com"
+  },
+  {
+    "name": "",
+    "company": "Heliware",
+    "email": "hr@heliware.co.in"
+  },
+  {
+    "name": "",
+    "company": "Imriel",
+    "email": "ankita.singh@imriel.com"
+  },
+  {
+    "name": "",
+    "company": "Imriel",
+    "email": "talent@imriel.com"
+  },
+  {
+    "name": "",
+    "company": "GFA Tech",
+    "email": "jobs@gfa-tech.com"
+  },
+  {
+    "name": "",
+    "company": "Zyoin",
+    "email": "pavithra@zyoin.com"
+  },
+  {
+    "name": "",
+    "company": "Techolution",
+    "email": "pradiksha.g@techolution.com"
+  },
+  {
+    "name": "",
+    "company": "Dev Technosys",
+    "email": "hr@devtechnosys.com"
+  },
+  {
+    "name": "",
+    "company": "Benori Knowledge",
+    "email": "recruitment@benoriknowledge.com"
+  },
+  {
+    "name": "",
+    "company": "Neuronarc Labs",
+    "email": "contact@neuronarclabs.com"
+  },
+  {
+    "name": "",
+    "company": "Swissmote",
+    "email": "dhiksha@swissmote.com"
+  },
+  {
+    "name": "",
+    "company": "Head Field",
+    "email": "simran.lama@head-field.com"
+  },
+  {
+    "name": "",
+    "company": "Flodata Analytics",
+    "email": "nidhi.shresth@flodataanalytics.com"
+  },
+  {
+    "name": "",
+    "company": "Geegate Technologies",
+    "email": "info@geegatechnologies.com"
+  },
+  {
+    "name": "",
+    "company": "Nexxbase",
+    "email": "medhavi.srivastava@nexxbase.com"
+  },
+  {
+    "name": "",
+    "company": "Cognizant",
+    "email": "gayathri.v4@cognizant.com"
+  },
+  {
+    "name": "",
+    "company": "Delphime",
+    "email": "pagrawal@delphime.com"
+  },
+  {
+    "name": "",
+    "company": "Antier Solutions",
+    "email": "prerna.sahni@antiersolutions.com"
+  },
+  {
+    "name": "",
+    "company": "Dinoxo",
+    "email": "riya@dinoxo.com"
+  },
+  {
+    "name": "",
+    "company": "Pioneer Business Solutions",
+    "email": "vinushree.ds@pioneerbusinesssolutions.in"
+  },
+  {
+    "name": "",
+    "company": "Akalp Techno Media Solutions",
+    "email": "seniorhr@akalptechnomediasolutions.com"
+  },
+  {
+    "name": "",
+    "company": "The Motorpedia",
+    "email": "hr@themotorpedia.com"
+  },
+  {
+    "name": "",
+    "company": "Thinkitive",
+    "email": "pooja.kokate@thinkitive.com"
+  },
+  {
+    "name": "",
+    "company": "Atidan",
+    "email": "careers@atidan.com"
+  },
+  {
+    "name": "",
+    "company": "nexinfo",
+    "email": "bhagyalakshmi.selvam@nexinfo.com"
+  },
+  {
+    "name": "",
+    "company": "pplindia",
+    "email": "sakshi.prajapati@pplindia.org"
+  },
+  {
+    "name": "",
+    "company": "quantzig",
+    "email": "michiricharitha@quantzig.com"
+  },
+  {
+    "name": "",
+    "company": "capgemini",
+    "email": "archita.banerjee@capgemini.com"
+  },
+  {
+    "name": "",
+    "company": "stokhos",
+    "email": "jobs@stokhos.in"
+  },
+  {
+    "name": "",
+    "company": "analyticsvidhya",
+    "email": "sangeeta@analyticsvidhya.com"
+  },
+  {
+    "name": "",
+    "company": "techtimes",
+    "email": "info@techtimes.ai"
+  },
+  {
+    "name": "",
+    "company": "stawnconsulting",
+    "email": "careers@stawnconsulting.com"
+  },
+  {
+    "name": "",
+    "company": "upgrad",
+    "email": "sheeza.bakshi@upgrad.com"
+  },
+  {
+    "name": "",
+    "company": "antiersolutions",
+    "email": "harsh056@antiersolutions.com"
+  },
+  {
+    "name": "",
+    "company": "zz-technologies",
+    "email": "hr@zz-technologies.com"
+  },
+  {
+    "name": "",
+    "company": "dilytics",
+    "email": "sobbattu@dilytics.com"
+  },
+  {
+    "name": "",
+    "company": "helpfulinsightsolution",
+    "email": "hr@helpfulinsightsolution.com"
+  },
+  {
+    "name": "",
+    "company": "revvgrowth",
+    "email": "hr@revvgrowth.com"
+  },
+  {
+    "name": "",
+    "company": "clipo",
+    "email": "contact@clipo.pro"
+  },
+  {
+    "name": "",
+    "company": "sjpartha",
+    "email": "talenthuntr@sjpartha.com"
+  },
+  {
+    "name": "",
+    "company": "nw18",
+    "email": "careers.editorial@nw18.com"
+  },
+  {
+    "name": "",
+    "company": "homelane",
+    "email": "shreya.g@homelane.com"
+  },
+  {
+    "name": "",
+    "company": "cyberxinfosystem",
+    "email": "shubhi@cyberxinfosystem.com"
+  },
+  {
+    "name": "",
+    "company": "eazydiner",
+    "email": "product@eazydiner.com"
+  },
+  {
+    "name": "",
+    "company": "bajajallianz",
+    "email": "mansi.gupta@bajajallianz.co.in"
+  },
+  {
+    "name": "",
+    "company": "algo8",
+    "email": "hr@algo8.ai"
+  },
+  {
+    "name": "",
+    "company": "eatnoto",
+    "email": "hr@eatnoto.com"
+  },
+  {
+    "name": "",
+    "company": "globalfinancialmedia",
+    "email": "jobs@globalfinancialmedia.com"
+  },
+  {
+    "name": "",
+    "company": "avedge",
+    "email": "hr@avedge.co.in"
+  },
+  {
+    "name": "",
+    "company": "trademo",
+    "email": "apoorva.razdan@trademo.com"
+  },
+  {
+    "name": "",
+    "company": "careermantraedu",
+    "email": "shreya@careermantraedu.in"
+  },
+  {
+    "name": "",
+    "company": "gomechanic",
+    "email": "pulkitchitranshi@gomechanic.in"
+  },
+  {
+    "name": "",
+    "company": "thinqcro",
+    "email": "poonam.lahire@thinqcro.com"
+  },
+  {
+    "name": "",
+    "company": "mindwrks",
+    "email": "contact@mindwrks.in"
+  },
+  {
+    "name": "",
+    "company": "appbroda",
+    "email": "hr@appbroda.com"
+  },
+  {
+    "name": "",
+    "company": "presidiumonline",
+    "email": "sushma.sharma@presidiumonline.com"
+  },
+  {
+    "name": "",
+    "company": "jarvis",
+    "email": "mohit.kumar@jarvis.consulting"
+  },
+  {
+    "name": "",
+    "company": "makunaiglobal",
+    "email": "hr@makunaiglobal.ai"
+  },
+  {
+    "name": "",
+    "company": "furnishka",
+    "email": "hr@furnishka.com"
+  },
+  {
+    "name": "",
+    "company": "kalam",
+    "email": "contact@kalam.in"
+  },
+  {
+    "name": "",
+    "company": "core-ai",
+    "email": "research@core-ai.org"
+  },
+  {
+    "name": "",
+    "company": "zuaiapp",
+    "email": "saniya_hemt@zuaiapp.com"
+  },
+  {
+    "name": "",
+    "company": "adpushup",
+    "email": "sakshi.singh@adpushup.com"
+  },
+  {
+    "name": "",
+    "company": "kynohealth",
+    "email": "syed.nadeem@kynohealth.com"
+  },
+  {
+    "name": "",
+    "company": "mplgaming",
+    "email": "careers@mplgaming.com"
+  },
+  {
+    "name": "",
+    "company": "coolbootsmedia",
+    "email": "narendra.gautam@coolbootsmedia.com"
+  },
+  {
+    "name": "",
+    "company": "technotoise",
+    "email": "simranjeet.kaur@technotoise.com"
+  },
+  {
+    "name": "",
+    "company": "finlabsindia",
+    "email": "ritwika.r@finlabsindia.com"
+  },
+  {
+    "name": "",
+    "company": "venturesdigitalindia",
+    "email": "interns@venturesdigitalindia.com"
+  },
+  {
+    "name": "",
+    "company": "taggd",
+    "email": "srajan.raghuwanshi@taggd.in"
+  },
+  {
+    "name": "",
+    "company": "cloudmandap",
+    "email": "prabina.manandhar@cloudmandap.com"
+  },
+  {
+    "name": "",
+    "company": "rnf",
+    "email": "divyani.juyal@rnf.tech"
+  },
+  {
+    "name": "",
+    "company": "iscstech",
+    "email": "vinitha@iscstech.com"
+  },
+  {
+    "name": "",
+    "company": "databridgemarketresearch",
+    "email": "resumes@databridgemarketresearch.com"
+  },
+  {
+    "name": "",
+    "company": "url-factory",
+    "email": "hr@url-factory.com"
+  },
+  {
+    "name": "",
+    "company": "futuringdesign",
+    "email": "venkat@futuringdesign.com"
+  },
+  {
+    "name": "",
+    "company": "zyla",
+    "email": "careers@zyla.in"
+  },
+  {
+    "name": "",
+    "company": "iitk",
+    "email": "jtrc@iitk.ac.in"
+  },
+  {
+    "name": "",
+    "company": "iconresources",
+    "email": "aisha.s@iconresources.com"
+  },
+  {
+    "name": "",
+    "company": "godrejkoerber",
+    "email": "pragya.singh@godrejkoerber.com"
+  },
+  {
+    "name": "",
+    "company": "bebarters",
+    "email": "careers@bebarters.com"
+  },
+  {
+    "name": "",
+    "company": "mindprovetech",
+    "email": "info@mindprovetech.com"
+  },
+  {
+    "name": "",
+    "company": "in",
+    "email": "rohit.halder@in.experis.com"
+  },
+  {
+    "name": "",
+    "company": "sparkouttech",
+    "email": "chandrikha@sparkouttech.com"
+  },
+  {
+    "name": "",
+    "company": "ksolves",
+    "email": "mohit.kumar@ksolves.com"
+  },
+  {
+    "name": "",
+    "company": "aexp",
+    "email": "prashant.karn1@aexp.com"
+  },
+  {
+    "name": "",
+    "company": "mihup",
+    "email": "hr@mihup.com"
+  },
+  {
+    "name": "",
+    "company": "bijnis",
+    "email": "priya.bhatia@bijnis.com"
+  },
+  {
+    "name": "",
+    "company": "ducimaanalytics",
+    "email": "hr.ushakalyani@ducimaanalytics.com"
+  },
+  {
+    "name": "",
+    "company": "zomato",
+    "email": "aman.kh@zomato.com"
+  },
+  {
+    "name": "",
+    "company": "aquissearch",
+    "email": "ektanarula@aquissearch.com"
+  },
+  {
+    "name": "",
+    "company": "prointegrate",
+    "email": "afreen@prointegrate.net"
+  },
+  {
+    "name": "",
+    "company": "huntingcube",
+    "email": "riya.joshi@huntingcube.com"
+  },
+  {
+    "name": "",
+    "company": "aurigainfo",
+    "email": "hr@aurigainfo.com"
+  },
+  {
+    "name": "",
+    "company": "govanator",
+    "email": "saumya@govanator.com"
+  },
+  {
+    "name": "",
+    "company": "empaxis",
+    "email": "trishita.mistry@empaxis.com"
+  },
+  {
+    "name": "",
+    "company": "codeflies",
+    "email": "career@codeflies.com"
+  },
+  {
+    "name": "",
+    "company": "blackpandaconsulting",
+    "email": "leena@blackpandaconsulting.com"
+  },
+  {
+    "name": "",
+    "company": "analyticsdrift",
+    "email": "pragya@analyticsdrift.com"
+  },
+  {
+    "name": "",
+    "company": "enropesolutions",
+    "email": "hr@enropesolutions.com"
+  },
+  {
+    "name": "",
+    "company": "jiem",
+    "email": "careers@jiem.in"
+  },
+  {
+    "name": "",
+    "company": "Markplus Inc",
+    "email": "career@markplusinc.com"
+  },
+  {
+    "name": "",
+    "company": "Virtual Admins",
+    "email": "hr@virtualadmins.org"
+  },
+  {
+    "name": "",
+    "company": "Ooliga",
+    "email": "jobs@ooliga.com"
+  },
+  {
+    "name": "",
+    "company": "Codknox",
+    "email": "talent@codknox.com"
+  },
+  {
+    "name": "",
+    "company": "Futurism Technologies",
+    "email": "komalg@futurismtechnologies.com"
+  },
+  {
+    "name": "",
+    "company": "Trisu",
+    "email": "saloni@trisu.in"
+  },
+  {
+    "name": "",
+    "company": "Grofers",
+    "email": "swastik.goswami@grofers.com"
+  },
+  {
+    "name": "",
+    "company": "Navcara",
+    "email": "babul.kumar@navcara.com"
+  },
+  {
+    "name": "",
+    "company": "Ghatge Group",
+    "email": "managerbdm@ghatgegroup.com"
+  },
+  {
+    "name": "",
+    "company": "Prodatalytics",
+    "email": "info@prodatalytics.com"
+  },
+  {
+    "name": "",
+    "company": "Mobilestyx",
+    "email": "hr@mobilestyx.com"
+  },
+  {
+    "name": "",
+    "company": "Gartner",
+    "email": "priyanka.chutani@gartner.com"
+  },
+  {
+    "name": "",
+    "company": "Polynomial AI",
+    "email": "hr@polynomial.ai"
+  },
+  {
+    "name": "",
+    "company": "Roimagnet",
+    "email": "sanket@roimagnet.com"
+  },
+  {
+    "name": "",
+    "company": "World Doc Services",
+    "email": "hr@worlddocservices.com"
+  },
+  {
+    "name": "",
+    "company": "MTM Group",
+    "email": "hr@mtm-group.ae"
+  },
+  {
+    "name": "",
+    "company": "Roswalt",
+    "email": "hr@roswalt.com"
+  },
+  {
+    "name": "",
+    "company": "Akshara CS",
+    "email": "santhosh@aksharacs.com"
+  },
+  {
+    "name": "",
+    "company": "Forace Speciality",
+    "email": "hrd1@foracespeciality.com"
+  },
+  {
+    "name": "",
+    "company": "HDFC Bank",
+    "email": "lavesh.kadam@hdfcbank.com"
+  },
+  {
+    "name": "",
+    "company": "BaseSolve",
+    "email": "ayushi.shah@basesolve.com"
+  },
+  {
+    "name": "",
+    "company": "Swarrnim",
+    "email": "ho@swarrnim.com"
+  },
+  {
+    "name": "",
+    "company": "Orbitsi",
+    "email": "orbitrecruiter15@orbitsi.com"
+  },
+  {
+    "name": "",
+    "company": "Covenant India",
+    "email": "sam.a@covenantindia.net"
+  },
+  {
+    "name": "",
+    "company": "PeopleStaff",
+    "email": "shivendra@peoplestaff.in"
+  },
+  {
+    "name": "",
+    "company": "PeopleStaff",
+    "email": "deeya@peoplestaff.in"
+  },
+  {
+    "name": "",
+    "company": "Sudeep Group",
+    "email": "kiran.yadav@sudeepgroup.com"
+  },
+  {
+    "name": "",
+    "company": "I4 Consulting",
+    "email": "pragati@i4consulting.co.in"
+  },
+  {
+    "name": "",
+    "company": "Shunya Tattva",
+    "email": "yasmin.g@shunyatattva.co.in"
+  },
+  {
+    "name": "",
+    "company": "Jobeefie",
+    "email": "ritika.jain@jobeefie.com"
+  },
+  {
+    "name": "",
+    "company": "GrayGraph",
+    "email": "nidhi.gupta@graygraph.com"
+  },
+  {
+    "name": "",
+    "company": "Ishivax",
+    "email": "hr@ishivax.com"
+  },
+  {
+    "name": "",
+    "company": "IAPP Technologies",
+    "email": "bela.s@iapptechnologiesllp.com"
+  },
+  {
+    "name": "",
+    "company": "Esferasoft",
+    "email": "hr_executive@esferasoft.com"
+  },
+  {
+    "name": "",
+    "company": "Chicmic Studios",
+    "email": "akanksha.mittal@chicmicstudios.in"
+  },
+  {
+    "name": "",
+    "company": "My Virtual Teams",
+    "email": "adamya.moudgil@myvirtualteams.com"
+  },
+  {
+    "name": "",
+    "company": "Apidots",
+    "email": "careers@apidots.net"
+  },
+  {
+    "name": "",
+    "company": "Softhunters",
+    "email": "hr@softhunters.in"
+  },
+  {
+    "name": "",
+    "company": "The Fab Code",
+    "email": "hr@thefabcode.org"
+  },
+  {
+    "name": "",
+    "company": "Softradix",
+    "email": "nisha.mehta@softradix.com"
+  },
+  {
+    "name": "",
+    "company": "AppInfo Inc",
+    "email": "kritikas@appinfoinc.com"
+  },
+  {
+    "name": "",
+    "company": "Programming.com",
+    "email": "reeta.pathania@programming.com"
+  },
+  {
+    "name": "",
+    "company": "Avasotech",
+    "email": "vandana.sharma@avasotech.com"
+  },
+  {
+    "name": "",
+    "company": "Techtic Agency",
+    "email": "zalak@techtic.agency"
+  },
+  {
+    "name": "",
+    "company": "DevITPL",
+    "email": "rita.pathak@devitpl.com"
+  },
+  {
+    "name": "",
+    "company": "DevITPL",
+    "email": "kairav.shah@devitpl.com"
+  },
+  {
+    "name": "",
+    "company": "Agodly",
+    "email": "neha.v@agodly.com"
+  },
+  {
+    "name": "",
+    "company": "Sleekitech",
+    "email": "hr@sleekitech.com"
+  },
+  {
+    "name": "",
+    "company": "Zoptal",
+    "email": "hr@zoptal.com"
+  },
+  {
+    "name": "",
+    "company": "Laserene Escape",
+    "email": "hrd@laserene-escape.com"
+  },
+  {
+    "name": "",
+    "company": "Aureate Labs",
+    "email": "hr@aureatelabs.com"
+  },
+  {
+    "name": "",
+    "company": "SEOQuartz",
+    "email": "hr@seoquartz.co"
+  },
+  {
+    "name": "",
+    "company": "Rodbez",
+    "email": "hr@rodbez.in"
+  },
+  {
+    "name": "",
+    "company": "Devin Labs",
+    "email": "hr@devinlabs.com"
+  },
+  {
+    "name": "",
+    "company": "MyPCOT",
+    "email": "parul.d@mypcot.com"
+  },
+  {
+    "name": "",
+    "company": "Diary of an SEO",
+    "email": "info@diaryofanseo.com"
+  },
+  {
+    "name": "",
+    "company": "The Novus Hire",
+    "email": "jobs@thenovushire.com"
+  },
+  {
+    "name": "",
+    "company": "Sharp Arch Technologies",
+    "email": "shalinit@sharparchtechnologies.com"
+  },
+  {
+    "name": "",
+    "company": "Icore Digital Marketing",
+    "email": "jobs@icoredigitalmarketing.com"
+  },
+  {
+    "name": "",
+    "company": "Yogic Software",
+    "email": "hr@yogicsoftware.com"
+  },
+  {
+    "name": "",
+    "company": "Flamingo Infinite",
+    "email": "pranjal.gurav@flamingoinfinite.com"
+  },
+  {
+    "name": "",
+    "company": "Global Tech",
+    "email": "nagesh@global-tech.co.in"
+  },
+  {
+    "name": "",
+    "company": "HGS Infotech",
+    "email": "poonam@hgsinfotech.com"
+  },
+  {
+    "name": "",
+    "company": "Web Osmotic",
+    "email": "hr@webosmotic.com"
+  },
+  {
+    "name": "",
+    "company": "Yum",
+    "email": "damanpreet.kaur@yum.com"
+  },
+  {
+    "name": "",
+    "company": "Talentoj",
+    "email": "neeraj@talentoj.com"
+  },
+  {
+    "name": "",
+    "company": "Two Brothers India",
+    "email": "vidisha@twobrothersindia.com"
+  },
+  {
+    "name": "",
+    "company": "Simplify Healthcare",
+    "email": "shweta.gidde@simplifyhealthcare.com"
+  },
+  {
+    "name": "",
+    "company": "Credence HR Services",
+    "email": "reemam@credencehrservices.com"
+  },
+  {
+    "name": "",
+    "company": "Right Move Consultants",
+    "email": "reshma@rightmoveconsultants.com"
+  },
+  {
+    "name": "",
+    "company": "JRK Infotech",
+    "email": "vishal.panguddi@jrkinfotech.com"
+  },
+  {
+    "name": "",
+    "company": "Dexian",
+    "email": "priyansha.sinha@dexian.com"
+  },
+  {
+    "name": "",
+    "company": "Dexian",
+    "email": "puja.thakur@dexian.com"
+  },
+  {
+    "name": "",
+    "company": "Harbinger Group",
+    "email": "pallavi.gondane@harbingergroup.com"
+  },
+  {
+    "name": "",
+    "company": "Dexian",
+    "email": "feni.rudani@dexian.com"
+  },
+  {
+    "name": "",
+    "company": "Rayna Tours",
+    "email": "onkar@raynatours.com"
+  },
+  {
+    "name": "",
+    "company": "Arken Tech Solutions",
+    "email": "hr@arkentechsolutions.com"
+  },
+  {
+    "name": "",
+    "company": "Inradius",
+    "email": "neetika@inradius.in"
+  },
+  {
+    "name": "",
+    "company": "Qualified Recruiter",
+    "email": "diksha.chhajer@qualifiedrecruiter.com"
+  },
+  {
+    "name": "",
+    "company": "Tech Mahindra",
+    "email": "mj00642401@techmahindra.com"
+  },
+  {
+    "name": "",
+    "company": "RW India",
+    "email": "ss7@rwindia.co"
+  },
+  {
+    "name": "",
+    "company": "Ritz Carlton",
+    "email": "naveen.rawat@ritzcarlton.com"
+  },
+  {
+    "name": "",
+    "company": "Ultra Corpotech",
+    "email": "schinchane@ultracorpotech.com"
+  },
+  {
+    "name": "",
+    "company": "Vereigen Media",
+    "email": "rucha.pathak@vereigenmedia.in"
+  },
+  {
+    "name": "",
+    "company": "LTI Mindtree",
+    "email": "tejashwini.v2@ltimindtree.com"
+  },
+  {
+    "name": "",
+    "company": "Tech Mahindra",
+    "email": "sj00959302@techmahindra.com"
+  },
+  {
+    "name": "",
+    "company": "Tech Mahindra",
+    "email": "rm00775572@techmahindra.com"
+  },
+  {
+    "name": "",
+    "company": "Virtual Simutech",
+    "email": "sakshi.sonawane@virtualsimutech.com"
+  },
+  {
+    "name": "",
+    "company": "Bajaj Allianz",
+    "email": "sagar.shirgaonkar@bajajallianz.co.in"
+  },
+  {
+    "name": "",
+    "company": "Big Pharma Jobs",
+    "email": "hr01@bigpharmajobs.co.in"
+  },
+  {
+    "name": "",
+    "company": "NetConnect Global",
+    "email": "simran.g@netconnectglobal.com"
+  },
+  {
+    "name": "",
+    "company": "PLX Worx",
+    "email": "hr@plxworx.com"
+  },
+  {
+    "name": "",
+    "company": "TMIE2E",
+    "email": "neslinpinto@tmie2e.com"
+  },
+  {
+    "name": "",
+    "company": "Mahindra",
+    "email": "rangari.supriya@mahindra.com"
+  },
+  {
+    "name": "",
+    "company": "NLB Tech",
+    "email": "rohit.todi@nlbtech.com"
+  },
+  {
+    "name": "",
+    "company": "Cariot Auto",
+    "email": "hiring@cariotauto.com"
+  },
+  {
+    "name": "",
+    "company": "VWork Info",
+    "email": "hrteam@vworkinfo.com"
+  },
+  {
+    "name": "",
+    "company": "Taggd",
+    "email": "arbaz.ahmed@taggd.in"
+  },
+  {
+    "name": "",
+    "company": "Expert GS",
+    "email": "tanvib@expertgs.com"
+  },
+  {
+    "name": "",
+    "company": "Purnartha",
+    "email": "smita.m@purnartha.com"
+  },
+  {
+    "name": "",
+    "company": "Tecroot3",
+    "email": "shradha.wadkar@tecroot3.com"
+  },
+  {
+    "name": "",
+    "company": "HRM Spanacea",
+    "email": "aparnnaa.shriram@hrmspanacea.co.in"
+  },
+  {
+    "name": "",
+    "company": "Obrimo",
+    "email": "jasmeet.kaur@obrimo.com"
+  },
+  {
+    "name": "",
+    "company": "HPE (Hewlett Packard)",
+    "email": "suman.r@hpe.com"
+  },
+  {
+    "name": "",
+    "company": "Black Turtle",
+    "email": "joshi.sonal@black-turtle.co"
+  },
+  {
+    "name": "",
+    "company": "Infosys",
+    "email": "prusothaman.v@infosys.com"
+  },
+  {
+    "name": "",
+    "company": "JPMA",
+    "email": "sunilg@jpma.org.in"
+  },
+  {
+    "name": "",
+    "company": "LTTS",
+    "email": "india.careers@ltts.com"
+  },
+  {
+    "name": "",
+    "company": "VDA Info Solutions",
+    "email": "pravin.sontakke@vdainfosolutions.com"
+  },
+  {
+    "name": "",
+    "company": "Unbound B2B",
+    "email": "klokhande3@unboundb2b.com"
+  },
+  {
+    "name": "",
+    "company": "WheelsEye",
+    "email": "prachi.singh@wheelseye.com"
+  },
+  {
+    "name": "",
+    "company": "Harken Data",
+    "email": "monika@harkendata.com"
+  },
+  {
+    "name": "",
+    "company": "BizSupportC",
+    "email": "pallavi.hajari@bizsupportc.com"
+  },
+  {
+    "name": "",
+    "company": "AJG",
+    "email": "mones_ahmed@ajg.com"
+  },
+  {
+    "name": "",
+    "company": "ETeam Inc",
+    "email": "mpaliwal@eteaminc.com"
+  },
+  {
+    "name": "",
+    "company": "The World Trade Hub",
+    "email": "hr@theworldtradehub.com"
+  },
+  {
+    "name": "",
+    "company": "Accor",
+    "email": "harshit.tamrakar@accor.com"
+  },
+  {
+    "name": "",
+    "company": "Accor",
+    "email": "dattatray.chikane@accor.com"
+  },
+  {
+    "name": "",
+    "company": "DTDC",
+    "email": "chandana@dtdc.com"
+  },
+  {
+    "name": "",
+    "company": "Corenza",
+    "email": "supriya@corenza.co"
+  },
+  {
+    "name": "",
+    "company": "Corenza",
+    "email": "supriya@corenza.co.in"
+  },
+  {
+    "name": "",
+    "company": "Corenza",
+    "email": "vaidehi@corenza.co.in"
+  },
+  {
+    "name": "",
+    "company": "Genpact",
+    "email": "soni.singh@genpact.com"
+  },
+  {
+    "name": "",
+    "company": "PiSquare Tech",
+    "email": "shanthin@pisquaretech.com"
+  },
+  {
+    "name": "",
+    "company": "JAC Recruitment",
+    "email": "shalini.kumari@jac-recruitment.com"
+  },
+  {
+    "name": "",
+    "company": "Coditas",
+    "email": "aishwarya.padhye@coditas.com"
+  },
+  {
+    "name": "",
+    "company": "LPC Advisor",
+    "email": "athira@lpcadvisor.com"
+  },
+  {
+    "name": "",
+    "company": "Loteh Pro",
+    "email": "hr@lotehpro.in"
+  },
+  {
+    "name": "",
+    "company": "Healthy Owl Wellness",
+    "email": "hr@healthyowlwellness.com"
+  },
+  {
+    "name": "",
+    "company": "TD Newton",
+    "email": "heena@tdnewton.com"
+  },
+  {
+    "name": "",
+    "company": "Intellias",
+    "email": "sandhya.dulgaj@intellias.com"
+  },
+  {
+    "name": "",
+    "company": "Winjit",
+    "email": "mrunmayees@winjit.com"
+  },
+  {
+    "name": "",
+    "company": "Hire Talent",
+    "email": "phaguni@hiretalent.com"
+  },
+  {
+    "name": "",
+    "company": "Arihant Capital",
+    "email": "jobs@arihantcapital.com"
+  },
+  {
+    "name": "",
+    "company": "Arihant Capital",
+    "email": "chro@arihantcapital.com"
+  },
+  {
+    "name": "",
+    "company": "IMCS Group",
+    "email": "hira.ansari@imcsgroup.net"
+  },
+  {
+    "name": "",
+    "company": "Antal",
+    "email": "ravi.ramanathan@antal.com"
+  },
+  {
+    "name": "",
+    "company": "SMS Group",
+    "email": "subhradip.dey@sms-group.com"
+  },
+  {
+    "name": "",
+    "company": "Maha Surya Group",
+    "email": "hr@mahasuryagroup.com"
+  },
+  {
+    "name": "",
+    "company": "Assure HR Labs",
+    "email": "santosh@assurehrlabs.com"
+  },
+  {
+    "name": "",
+    "company": "Markets and Markets",
+    "email": "tarmit.singh01@marketsandmarkets.com"
+  },
+  {
+    "name": "",
+    "company": "TalentBurst",
+    "email": "ekta.mediratta@talentburst.com"
+  },
+  {
+    "name": "",
+    "company": "ZYMR",
+    "email": "jobs@zymr.com"
+  },
+  {
+    "name": "",
+    "company": "People Staffing",
+    "email": "kriti.madan@peoplestaffing.in"
+  },
+  {
+    "name": "",
+    "company": "Experis",
+    "email": "sai.sabbineni@in.experis.com"
+  },
+  {
+    "name": "",
+    "company": "Live Connections",
+    "email": "lovelin@liveconnections.in"
+  },
+  {
+    "name": "",
+    "company": "TD Newton",
+    "email": "pragya.bharti@tdnewton.com"
+  },
+  {
+    "name": "",
+    "company": "Apptware",
+    "email": "shaila.banarase@apptware.com"
+  },
+  {
+    "name": "",
+    "company": "Infosys",
+    "email": "anil_chaugule@infosys.com"
+  },
+  {
+    "name": "",
+    "company": "Infogain",
+    "email": "sanya.kapoor@infogain.com"
+  },
+  {
+    "name": "",
+    "company": "BJW Health",
+    "email": "ramesh.juneja@bjwhealth.com"
+  },
+  {
+    "name": "",
+    "company": "VBeyondAPAC",
+    "email": "msharma@vbeyondapac.com"
+  },
+  {
+    "name": "",
+    "company": "Hexaware",
+    "email": "sowmyaj@hexaware.com"
+  },
+  {
+    "name": "",
+    "company": "DrizzleIT",
+    "email": "kavita@drizzleit.org"
+  },
+  {
+    "name": "",
+    "company": "Varite",
+    "email": "palka.arora@varite.com"
+  },
+  {
+    "name": "",
+    "company": "MGSTech",
+    "email": "priyanka.nalage@mgstech.in"
+  },
+  {
+    "name": "",
+    "company": "Absolute Barbecue",
+    "email": "shivani.r@absolute-barbecue.com"
+  },
+  {
+    "name": "",
+    "company": "LotechPro",
+    "email": "hr@lotechpro.in"
+  },
+  {
+    "name": "",
+    "company": "Orsus",
+    "email": "tanvi.bansal@orsus.co.in"
+  },
+  {
+    "name": "",
+    "company": "Globant",
+    "email": "ayushri.sarda@globant.com"
+  },
+  {
+    "name": "",
+    "company": "VBeyondAPAC",
+    "email": "ssharma1@vbeyondapac.com"
+  },
+  {
+    "name": "",
+    "company": "Myriad Consulting",
+    "email": "sandeep.dalvi@myriadconsulting.co.in"
+  },
+  {
+    "name": "",
+    "company": "AmpcusTech",
+    "email": "hritik.pagade@ampcustech.com"
+  },
+  {
+    "name": "",
+    "company": "AmpcusTech",
+    "email": "swaleha.pathan@ampcustech.com"
+  },
+  {
+    "name": "",
+    "company": "Yahoo",
+    "email": "narendra_k2k8@yahoo.com"
+  },
+  {
+    "name": "",
+    "company": "Ahanay Synertech",
+    "email": "resume@ahanaysynertech.com"
+  },
+  {
+    "name": "",
+    "company": "BrainCranx",
+    "email": "suresh@braincranx.com"
+  },
+  {
+    "name": "",
+    "company": "Vertoz",
+    "email": "akanksha.goel@vertoz.com"
+  },
+  {
+    "name": "",
+    "company": "Xiaomi",
+    "email": "rahuls@xiaomi.com"
+  },
+  {
+    "name": "",
+    "company": "Excelencia Consulting",
+    "email": "saai.lakshmi@excelenciaconsulting.com"
+  },
+  {
+    "name": "",
+    "company": "Starkflow",
+    "email": "anupriya.srivastava@starkflow.co"
+  },
+  {
+    "name": "",
+    "company": "Niyogin",
+    "email": "hiring@niyogin.ai"
+  },
+  {
+    "name": "",
+    "company": "Urban Company",
+    "email": "snehamondal@urbancompany.com"
+  },
+  {
+    "name": "",
+    "company": "JRR Safelogic",
+    "email": "hr@jrrsafelogic.com"
+  },
+  {
+    "name": "",
+    "company": "Stats and Research",
+    "email": "hr@statsandresearch.com"
+  },
+  {
+    "name": "",
+    "company": "Prohuman",
+    "email": "meghatripathy@prohuman.in"
+  },
+  {
+    "name": "",
+    "company": "Magic Paints",
+    "email": "hrmanager@magicpaints.in"
+  },
+  {
+    "name": "",
+    "company": "Diraa",
+    "email": "ajith@diraa.in"
+  },
+  {
+    "name": "",
+    "company": "Alois Solutions",
+    "email": "kawan.shah@aloissolutions.com"
+  },
+  {
+    "name": "",
+    "company": "Alois Solutions",
+    "email": "akash.shrivastav@aloissolutions.com"
+  },
+  {
+    "name": "",
+    "company": "Centstone",
+    "email": "venkatesh.kulkarni@centstone.com"
+  },
+  {
+    "name": "",
+    "company": "Webdesk Inc.",
+    "email": "jobs@webdeskinc.com"
+  },
+  {
+    "name": "",
+    "company": "Jacobs",
+    "email": "pemmanaboidi.venkateswararao@jacobs.com"
+  },
+  {
+    "name": "",
+    "company": "Jacobs",
+    "email": "jayaprakash.konkipudi@jacobs.com"
+  },
+  {
+    "name": "",
+    "company": "Task Staffing",
+    "email": "priya@taskstaffing.com"
+  },
+  {
+    "name": "",
+    "company": "VySystems",
+    "email": "josphin.j@vysystems.jobs"
+  },
+  {
+    "name": "",
+    "company": "Informica",
+    "email": "pooja@informica.co.in"
+  },
+  {
+    "name": "",
+    "company": "Forcecraver",
+    "email": "jbhatia@forcecraver.com"
+  },
+  {
+    "name": "",
+    "company": "Alois Solutions",
+    "email": "sarang.sangamnekar@aloissolutions.com"
+  },
+  {
+    "name": "",
+    "company": "SapbotTech",
+    "email": "shaheen.banu@sapbottech.com"
+  },
+  {
+    "name": "",
+    "company": "Yours That Senior",
+    "email": "hr@yoursthatsenior.com"
+  },
+  {
+    "name": "",
+    "company": "Yours That Senior",
+    "email": "placements@yoursthatsenior.com"
+  },
+  {
+    "name": "",
+    "company": "Toyo Engineering",
+    "email": "in.ofsi.hrd@toyo-eng.com"
+  },
+  {
+    "name": "",
+    "company": "BCD Travel",
+    "email": "chaitra.nagaraj@bcdtravel.com"
+  },
+  {
+    "name": "",
+    "company": "KnowledgeW",
+    "email": "meenakshi.s@knowledgew.com"
+  },
+  {
+    "name": "",
+    "company": "Talentiser",
+    "email": "nitachi@talentiser.com"
+  },
+  {
+    "name": "",
+    "company": "ChannelPlay",
+    "email": "pritish.patnaik@channelplay.in"
+  },
+  {
+    "name": "",
+    "company": "ChannelPlay",
+    "email": "saurav.kumar1@channelplay.in"
+  },
+  {
+    "name": "",
+    "company": "Marriott",
+    "email": "mhrsbengaluruwhitefieldindiahr@marriott.com"
+  },
+  {
+    "name": "",
+    "company": "Expinfi",
+    "email": "chiranjan.v@expinfi.com"
+  },
+  {
+    "name": "",
+    "company": "CoverStack",
+    "email": "careers@coverstack.in"
+  },
+  {
+    "name": "",
+    "company": "JGI",
+    "email": "people4@jgi.ac.in"
+  },
+  {
+    "name": "",
+    "company": "ZenithCons",
+    "email": "namratha@zenithcons.com"
+  },
+  {
+    "name": "",
+    "company": "IQGateway",
+    "email": "keerthireddy.koduru@iqgateway.com"
+  },
+  {
+    "name": "",
+    "company": "RoadGrid",
+    "email": "santanu.pan@roadgrid.in"
+  },
+  {
+    "name": "",
+    "company": "Drivex",
+    "email": "m.sadguruswamy@drivex.in"
+  },
+  {
+    "name": "",
+    "company": "BSCXpress",
+    "email": "anuj@bscxpress.com"
+  },
+  {
+    "name": "",
+    "company": "Betacura",
+    "email": "vikashkumar@betacura.com"
+  },
+  {
+    "name": "",
+    "company": "Betacura",
+    "email": "hr@betacura.com"
+  },
+  {
+    "name": "",
+    "company": "TechMahindra",
+    "email": "arketnaveen.kumar@techmahindra.com"
+  },
+  {
+    "name": "",
+    "company": "ITC Hotels",
+    "email": "hr.itcgardenia@itchotels.in"
+  },
+  {
+    "name": "",
+    "company": "TalentAhead",
+    "email": "ketki@talentahead.in"
+  },
+  {
+    "name": "",
+    "company": "RVEI",
+    "email": "principal.ssmrv@rvei.edu.in"
+  },
+  {
+    "name": "",
+    "company": "RVEI",
+    "email": "hr.ssmrv@rvei.edu.in"
+  },
+  {
+    "name": "",
+    "company": "Shelby Global",
+    "email": "sharada@shelbyglobal.com"
+  },
+  {
+    "name": "",
+    "company": "Ecom Express",
+    "email": "1shweta@ecomexpress.in"
+  },
+  {
+    "name": "",
+    "company": "Kalvium",
+    "email": "afnan.bhat@kalvium.com"
+  },
+  {
+    "name": "",
+    "company": "Renascence Talent",
+    "email": "sajiv@renascencetalent.com"
+  },
+  {
+    "name": "",
+    "company": "Aris Infra",
+    "email": "sonika.thakur@arisinfra.one"
+  },
+  {
+    "name": "",
+    "company": "Altruist India",
+    "email": "anshu.jain@altruistindia.com"
+  },
+  {
+    "name": "",
+    "company": "Cars24",
+    "email": "divya.v@cars24.com"
+  },
+  {
+    "name": "",
+    "company": "Cars24",
+    "email": "b.kumar@cars24.com"
+  },
+  {
+    "name": "",
+    "company": "ITC Hotels",
+    "email": "hr.whbengaluru@itchotels.in"
+  },
+  {
+    "name": "",
+    "company": "HR-Pro",
+    "email": "bettegowda.pr@hr-pro.in"
+  },
+  {
+    "name": "",
+    "company": "Innoviti",
+    "email": "akhila.cb@innoviti.com"
+  },
+  {
+    "name": "",
+    "company": "Covetus",
+    "email": "chinmay.daoo@covetus.com"
+  },
+  {
+    "name": "",
+    "company": "Solid Global",
+    "email": "hr@solid-global.com"
+  },
+  {
+    "name": "",
+    "company": "Vation",
+    "email": "nagashree.ns@vation.com"
+  },
+  {
+    "name": "",
+    "company": "Indiqube",
+    "email": "cs.compliance@indiqube.com"
+  },
+  {
+    "name": "",
+    "company": "BPTERP",
+    "email": "sowmya.naidu@bpterp.com"
+  },
+  {
+    "name": "",
+    "company": "Talent Nexa",
+    "email": "hr@talentnexa.in"
+  },
+  {
+    "name": "",
+    "company": "Damensch",
+    "email": "souvik.palit@damensch.com"
+  },
+  {
+    "name": "",
+    "company": "Asianet News",
+    "email": "webcareers@asianetnews.in"
+  },
+  {
+    "name": "",
+    "company": "Norwin Technologies",
+    "email": "anjana@norwintechnologies.com"
+  },
+  {
+    "name": "",
+    "company": "IIC",
+    "email": "swetha@iic.com"
+  },
+  {
+    "name": "",
+    "company": "Teksystems",
+    "email": "aarasina@teksystems.com"
+  },
+  {
+    "name": "",
+    "company": "Marriott",
+    "email": "csumesh.mohan@marriott.com"
+  },
+  {
+    "name": "",
+    "company": "Courtyard",
+    "email": "anjith.s@courtyard.com"
+  },
+  {
+    "name": "",
+    "company": "Lambs Rock",
+    "email": "prajakta.p@lambsrock.com"
+  },
+  {
+    "name": "",
+    "company": "EigenRisk",
+    "email": "pkhanna@eigenrisk.com"
+  },
+  {
+    "name": "",
+    "company": "Wipro",
+    "email": "ra20367930@wipro.com"
+  },
+  {
+    "name": "",
+    "company": "Mirafra",
+    "email": "pkalavathi@mirafra.com"
+  },
+  {
+    "name": "",
+    "company": "DoodleBlue",
+    "email": "pavithra.r@doodleblue.com"
+  },
+  {
+    "name": "",
+    "company": "LiveCJobs",
+    "email": "saraswathy@livecjobs.com"
+  },
+  {
+    "name": "",
+    "company": "Ombridge Sai",
+    "email": "kishore@ombridgesai.com"
+  },
+  {
+    "name": "",
+    "company": "Teksystems",
+    "email": "sogeswararao@teksystems.com"
+  },
+  {
+    "name": "",
+    "company": "HCL Tech",
+    "email": "i.aashik@hcltech.com"
+  },
+  {
+    "name": "",
+    "company": "Oracle",
+    "email": "amol.m.patil@oracle.com"
+  },
+  {
+    "name": "",
+    "company": "Oracle",
+    "email": "rajesh.jana@oracle.com"
+  },
+  {
+    "name": "",
+    "company": "AllCompliances",
+    "email": "yes@allcompliances.com"
+  },
+  {
+    "name": "",
+    "company": "Antal",
+    "email": "helan.shilpa@antal.com"
+  },
+  {
+    "name": "",
+    "company": "RSM India",
+    "email": "arun.gowda@rsmindia.in"
+  },
+  {
+    "name": "",
+    "company": "Zoniactechnologies",
+    "email": "deepak@zoniactechnologies.com"
+  },
+  {
+    "name": "",
+    "company": "Oracle",
+    "email": "ppaiya.sarkhel@oracle.com"
+  },
+  {
+    "name": "",
+    "company": "AmpcusTech",
+    "email": "dinesh.kolhare@ampcustech.com"
+  },
+  {
+    "name": "",
+    "company": "TechGlock",
+    "email": "rashmeet@techglock.com"
+  },
+  {
+    "name": "",
+    "company": "Genpact",
+    "email": "pritam.debnath1@genpact.com"
+  },
+  {
+    "name": "",
+    "company": "Amplio Solution",
+    "email": "swaroopa.manthri@ampliosolution.com"
+  },
+  {
+    "name": "",
+    "company": "TWSol",
+    "email": "nandini.m@twsol.com"
+  },
+  {
+    "name": "",
+    "company": "Hetero Healthcare",
+    "email": "aslam.shaik@heterohealthcare.com"
+  },
+  {
+    "name": "",
+    "company": "ForaySoft",
+    "email": "lakshman.g@foraysoft.com"
+  },
+  {
+    "name": "",
+    "company": "Genzeon",
+    "email": "sam.noel@genzeon.com"
+  },
+  {
+    "name": "",
+    "company": "Hetero",
+    "email": "vijaybabu.r@hetero.com"
+  },
+  {
+    "name": "",
+    "company": "Mobis",
+    "email": "gopikrishna.pasupuleti@mobis.com"
+  },
+  {
+    "name": "",
+    "company": "AimPlus Staffing",
+    "email": "sourcing@aimplusstaffing.com"
+  },
+  {
+    "name": "",
+    "company": "The Golkonda Hotel",
+    "email": "executive.chef@thegolkondahotel.com"
+  },
+  {
+    "name": "",
+    "company": "Advent Global",
+    "email": "ramana.punyala@adventglobal.com"
+  },
+  {
+    "name": "",
+    "company": "ValueLabs",
+    "email": "anju.n@valuelabs.com"
+  },
+  {
+    "name": "",
+    "company": "MagicPin",
+    "email": "muskan.thapa@magicpin.in"
+  },
+  {
+    "name": "",
+    "company": "Flipkart",
+    "email": "ventrapragadap1.vc@flipkart.com"
+  },
+  {
+    "name": "",
+    "company": "NYGCI",
+    "email": "esther.m@nygci.com"
+  },
+  {
+    "name": "",
+    "company": "Encalm",
+    "email": "careers.hyd@encalm.com"
+  },
+  {
+    "name": "",
+    "company": "Codeforce",
+    "email": "srikanthm@codeforce.com"
+  },
+  {
+    "name": "",
+    "company": "Carrier",
+    "email": "sai.vajrala@carrier.com"
+  },
+  {
+    "name": "",
+    "company": "USTech Solutions",
+    "email": "sheena@ustechsolutionsinc.com"
+  },
+  {
+    "name": "",
+    "company": "RWavesofTech",
+    "email": "shalini@rwavesoftech.com"
+  },
+  {
+    "name": "",
+    "company": "Judge",
+    "email": "dpal@judge.com"
+  },
+  {
+    "name": "",
+    "company": "2Coms",
+    "email": "pratibha.s@2coms.com"
+  },
+  {
+    "name": "",
+    "company": "JFHR",
+    "email": "lalitha.s@jfhr.in"
+  },
+  {
+    "name": "",
+    "company": "M3BI",
+    "email": "harika.bhandekar@m3bi.com"
+  },
+  {
+    "name": "",
+    "company": "Genworks Health",
+    "email": "recruit@genworkshealth.com"
+  },
+  {
+    "name": "",
+    "company": "TalentSmart",
+    "email": "roopa@talentsmart.co.in"
+  },
+  {
+    "name": "",
+    "company": "Conglomerate IT",
+    "email": "muskan@conglomerateit.com"
+  },
+  {
+    "name": "",
+    "company": "InfoShare Systems",
+    "email": "shameemunnisa.sayyed@infosharesystems.com"
+  },
+  {
+    "name": "",
+    "company": "Factset",
+    "email": "aditya.gurijala@factset.com"
+  },
+  {
+    "name": "",
+    "company": "Dec Industries",
+    "email": "hohr@decindustries.in"
+  },
+  {
+    "name": "",
+    "company": "SchrillTech",
+    "email": "gethired@schrilltech.com"
+  },
+  {
+    "name": "",
+    "company": "The Dollar Business",
+    "email": "vaishnavi.laggishetty@thedollarbusiness.com"
+  },
+  {
+    "name": "",
+    "company": "Fulcrum GT",
+    "email": "kmaddala@fulcrumgt.com"
+  },
+  {
+    "name": "",
+    "company": "Logic Planet",
+    "email": "chakravarthi.b@logicplanet.com"
+  },
+  {
+    "name": "",
+    "company": "Logic Loops",
+    "email": "ashritha@logic-loops.com"
+  },
+  {
+    "name": "",
+    "company": "Vservit",
+    "email": "samiya.islam@vservit.com"
+  },
+  {
+    "name": "",
+    "company": "CSI Global",
+    "email": "priya.a@in.csiglobal.co.uk"
+  },
+  {
+    "name": "",
+    "company": "Humint Global",
+    "email": "krishna.p@humintglobal.com"
+  },
+  {
+    "name": "",
+    "company": "Joules to Watts",
+    "email": "neha.d@joulestowatts.com"
+  },
+  {
+    "name": "",
+    "company": "Wonderchef",
+    "email": "careers@wonderchef.in"
+  },
+  {
+    "name": "",
+    "company": "ValueLabs",
+    "email": "harsha.kolluru@valuelabs.com"
+  },
+  {
+    "name": "",
+    "company": "Capgemini",
+    "email": "gauri-parag.thekedar@capgemini.com"
+  },
+  {
+    "name": "",
+    "company": "Softenger",
+    "email": "sd02226349@softenger.com"
+  },
+  {
+    "name": "",
+    "company": "Iconma",
+    "email": "nisha@iconma.com"
+  },
+  {
+    "name": "",
+    "company": "ProwessSoft",
+    "email": "careers@prowesssoft.com"
+  },
+  {
+    "name": "",
+    "company": "Dew Software",
+    "email": "pratik@dewsoftware.com"
+  },
+  {
+    "name": "",
+    "company": "Alois Solutions",
+    "email": "jitendra.vyas@aloissolutions.com"
+  },
+  {
+    "name": "",
+    "company": "GRIET",
+    "email": "tanyab@griet.ac.in"
+  },
+  {
+    "name": "",
+    "company": "Vision ITS",
+    "email": "hanu@visionits.com"
+  },
+  {
+    "name": "",
+    "company": "IntegerTel",
+    "email": "mohd.yaasar@integertel.com"
+  },
+  {
+    "name": "",
+    "company": "LTI Mindtree",
+    "email": "srinivas.shenoy@ltimindtee.com"
+  },
+  {
+    "name": "",
+    "company": "Obrimo",
+    "email": "ishaikh@obrimo.com"
+  },
+  {
+    "name": "",
+    "company": "BCForward",
+    "email": "gandavarapu.chandusha@bcforward.com"
+  },
+  {
+    "name": "",
+    "company": "Zazz",
+    "email": "shalini.geedi@zazz.io"
+  },
+  {
+    "name": "",
+    "company": "Protiviti Global",
+    "email": "vishakha.vanjare@protivitiglobal.in"
+  },
+  {
+    "name": "",
+    "company": "Double Entry",
+    "email": "info@doubleentry.co.in"
+  },
+  {
+    "name": "",
+    "company": "Publicis Sapient",
+    "email": "anil.rawat@publicissapient.com"
+  },
+  {
+    "name": "",
+    "company": "Omega Healthcare Management",
+    "email": "manikandan.dhanapalan@omegahms.com"
+  },
+  {
+    "name": "",
+    "company": "Amity University",
+    "email": "rmann@amity.edu"
+  },
+  {
+    "name": "",
+    "company": "Kreeyaa",
+    "email": "careers@kreeyaa.com"
+  },
+  {
+    "name": "",
+    "company": "Kreeyaa",
+    "email": "prachi.g@kreeyaa.com"
+  },
+  {
+    "name": "",
+    "company": "NxtWave",
+    "email": "abu.velpula@nxtwave.co.in"
+  },
+  {
+    "name": "",
+    "company": "Excel Tech Computers",
+    "email": "manoj@exceltechcomputers.com"
+  },
+  {
+    "name": "",
+    "company": "Tech Mahindra",
+    "email": "swatiuday.nayak@techmahindra.com"
+  },
+  {
+    "name": "",
+    "company": "OnSpace Global",
+    "email": "swetha@onspaceglobal.com"
+  },
+  {
+    "name": "",
+    "company": "GMR Group",
+    "email": "venugopal.s@gmrgroup.in"
+  },
+  {
+    "name": "",
+    "company": "Aizant",
+    "email": "murali.tirumareddi@aizant.com"
+  },
+  {
+    "name": "",
+    "company": "Aizant",
+    "email": "careers@aizant.com"
+  },
+  {
+    "name": "",
+    "company": "Allness Jobs",
+    "email": "surya@allnessjobs.com"
+  },
+  {
+    "name": "",
+    "company": "Dexian",
+    "email": "bhavani.chilakala@dexian.com"
+  },
+  {
+    "name": "",
+    "company": "Agicent",
+    "email": "kavita.gusain@agicent.com"
+  },
+  {
+    "name": "",
+    "company": "RMG Consulting",
+    "email": "mukul.sharma@rmgconsulting.in"
+  },
+  {
+    "name": "",
+    "company": "Shoppin App",
+    "email": "shlok@shoppin.app"
+  },
+  {
+    "name": "",
+    "company": "Shoppin App",
+    "email": "aastha@shoppin.app"
+  },
+  {
+    "name": "",
+    "company": "Sayaji Group",
+    "email": "ad.development@sayajigroup.com"
+  },
+  {
+    "name": "",
+    "company": "Perfect Ventures",
+    "email": "pankaj@perfect.ventures"
+  },
+  {
+    "name": "",
+    "company": "Aditya Birla Fashion & Retail",
+    "email": "vartika@abfrl.adityabirla.com"
+  },
+  {
+    "name": "",
+    "company": "DesignNex",
+    "email": "akshay.soni@designnex.com"
+  },
+  {
+    "name": "",
+    "company": "EaseMyTrip",
+    "email": "neha.sareen@easemytrip.com"
+  },
+  {
+    "name": "",
+    "company": "Parallel Team",
+    "email": "hr@parallelteam.com"
+  },
+  {
+    "name": "",
+    "company": "RDK Kaushambi",
+    "email": "hrd@rdkaushambi.com"
+  },
+  {
+    "name": "",
+    "company": "Noor Mahal",
+    "email": "directorfnb@noormahal.in"
+  },
+  {
+    "name": "",
+    "company": "Noor Mahal",
+    "email": "mgr.hr@noormahal.in"
+  },
+  {
+    "name": "",
+    "company": "The Corporate Edge",
+    "email": "hr@thecorporatedge.com"
+  },
+  {
+    "name": "",
+    "company": "GapUp Consultants",
+    "email": "priyanka@gapupconsultants.com"
+  },
+  {
+    "name": "",
+    "company": "Coeus",
+    "email": "info@coeus.org.in"
+  },
+  {
+    "name": "",
+    "company": "Aviorion",
+    "email": "career@aviorion.in"
+  },
+  {
+    "name": "",
+    "company": "Excitel",
+    "email": "akhilesh.tripathi@excitel.com"
+  },
+  {
+    "name": "",
+    "company": "EY (Ernst & Young)",
+    "email": "sreehari.r1@in.ey.com"
+  },
+  {
+    "name": "",
+    "company": "PMG Asia",
+    "email": "shailly.jain@pmgasia.com"
+  },
+  {
+    "name": "",
+    "company": "V2Web",
+    "email": "ashutosh@v2web.in"
+  },
+  {
+    "name": "",
+    "company": "ParkSmart",
+    "email": "hemant.mukherjee@parksmart.in"
+  },
+  {
+    "name": "",
+    "company": "Baidyanath",
+    "email": "marketing@baidyanath.org"
+  },
+  {
+    "name": "",
+    "company": "Max Estates",
+    "email": "recruiter@maxestates.in"
+  },
+  {
+    "name": "",
+    "company": "Jaipuria Brandz",
+    "email": "careers@jaipuriabrandz.com"
+  },
+  {
+    "name": "",
+    "company": "MagicPin",
+    "email": "bhumikagera.sun@magicpin.in"
+  },
+  {
+    "name": "",
+    "company": "Regent Digitech",
+    "email": "chhavi@regentdigitech.com"
+  },
+  {
+    "name": "",
+    "company": "Circle Digital",
+    "email": "careers@circledigital.in"
+  },
+  {
+    "name": "",
+    "company": "RPM Consulting",
+    "email": "sales@rpmconsulting.in"
+  },
+  {
+    "name": "",
+    "company": "TWOSS",
+    "email": "varun.malik@twoss.in"
+  },
+  {
+    "name": "",
+    "company": "The Rail World",
+    "email": "editor@therailworld.in"
+  },
+  {
+    "name": "",
+    "company": "PwC",
+    "email": "shilpi.sa.agarwal@pwc.com"
+  },
+  {
+    "name": "",
+    "company": "Colliers",
+    "email": "arvind.baug@colliers.com"
+  },
+  {
+    "name": "",
+    "company": "NK Consultants",
+    "email": "nkc@nkconsultants.co.in"
+  },
+  {
+    "name": "",
+    "company": "Jeev Media",
+    "email": "jaden@jeevmedia.net"
+  },
+  {
+    "name": "",
+    "company": "SMS Consultants",
+    "email": "info@smsconsultants.org"
+  },
+  {
+    "name": "",
+    "company": "UTIS Elevators",
+    "email": "info@utiselevators.com"
+  },
+  {
+    "name": "",
+    "company": "Michael Page",
+    "email": "teonadcruz@michaelpage.co.in"
+  },
+  {
+    "name": "",
+    "company": "Kissht",
+    "email": "rahul.prajapati1@kissht.com"
+  },
+  {
+    "name": "",
+    "company": "Aon",
+    "email": "shashank.mishra@aon.com"
+  },
+  {
+    "name": "",
+    "company": "Aon",
+    "email": "swanand.apte@aon.com"
+  },
+  {
+    "name": "",
+    "company": "Johnson Lifts Ltd",
+    "email": "naveen.k@johnsonliftsltd.com"
+  },
+  {
+    "name": "",
+    "company": "Marriott",
+    "email": "himanshu.bhatnagar@marriott.com"
+  },
+  {
+    "name": "",
+    "company": "NHB Consultants",
+    "email": "info@nhbconsultants.com"
+  },
+  {
+    "name": "",
+    "company": "Sums Plus Solutions",
+    "email": "careers@sumsplussolutions.com"
+  },
+  {
+    "name": "",
+    "company": "MobiKwik",
+    "email": "kriti.srivastava1@mobikwik.com"
+  },
+  {
+    "name": "",
+    "company": "AMCC",
+    "email": "hr@amcc.in"
+  },
+  {
+    "name": "",
+    "company": "Tivoli Hotels",
+    "email": "hrm@tivolihotels.co.in"
+  },
+  {
+    "name": "",
+    "company": "Silver Stroke Communications",
+    "email": "ankitasingh@silverstrokecommunications.com"
+  },
+  {
+    "name": "",
+    "company": "Ibotix",
+    "email": "harsh.vohra@ibotix.in"
+  },
+  {
+    "name": "",
+    "company": "Ibotix",
+    "email": "aditi.chaturvedi@ibotix.in"
+  },
+  {
+    "name": "",
+    "company": "Softenger",
+    "email": "manoj.hajare@softenger.com"
+  },
+  {
+    "name": "",
+    "company": "SCA Surgery",
+    "email": "ishita.thakur@scasurgery.com"
+  },
+  {
+    "name": "",
+    "company": "EY (Ernst & Young)",
+    "email": "harsh.vijaywargiya@in.ey.com"
+  },
+  {
+    "name": "",
+    "company": "Orana Group",
+    "email": "hr@oranagroup.com"
+  },
+  {
+    "name": "",
+    "company": "Orana Group",
+    "email": "hrhead@oranagroup.in"
+  },
+  {
+    "name": "",
+    "company": "Scale New Works",
+    "email": "romaganjoo@scaleneworks.com"
+  },
+  {
+    "name": "",
+    "company": "IRIS Software",
+    "email": "shruti.gupta@irissoftware.com"
+  },
+  {
+    "name": "",
+    "company": "VimoPay",
+    "email": "nishu.singh@vimopay.in"
+  },
+  {
+    "name": "",
+    "company": "Bajaj Allianz",
+    "email": "ram.ji@bajajallianz.co.in"
+  },
+  {
+    "name": "",
+    "company": "Unison International",
+    "email": "farheen.khan@unisoninternational.net"
+  },
+  {
+    "name": "",
+    "company": "Brick & Bolt",
+    "email": "himanshu.rawat@bricknbolt.com"
+  },
+  {
+    "name": "",
+    "company": "ERekrut",
+    "email": "gurleen.kaur@erekrut.com"
+  },
+  {
+    "name": "",
+    "company": "Alight",
+    "email": "nidhi.negidixit@alight.com"
+  },
+  {
+    "name": "",
+    "company": "Hike Education",
+    "email": "tushar@hikeedu.in"
+  },
+  {
+    "name": "",
+    "company": "FinFloww",
+    "email": "aryan@finfloww.com"
+  },
+  {
+    "name": "",
+    "company": "Abhiyan Capital",
+    "email": "rabi.baishya@abhiyancapital.com"
+  },
+  {
+    "name": "",
+    "company": "Abhiyan Capital",
+    "email": "meenakshi.singh@abhiyancapital.com"
+  },
+  {
+    "name": "",
+    "company": "The Digital Futur",
+    "email": "utkarsh@thedigitalfutur.com"
+  },
+  {
+    "name": "",
+    "company": "Esun Solar",
+    "email": "jobs@esunsolar.in"
+  },
+  {
+    "name": "",
+    "company": "Fineoteric",
+    "email": "hariom@fineoteric.com"
+  },
+  {
+    "name": "",
+    "company": "Amor MC",
+    "email": "pinky@amormc.com"
+  },
+  {
+    "name": "",
+    "company": "Sarv",
+    "email": "mahima.k@sarv.com"
+  },
+  {
+    "name": "",
+    "company": "Stanza Living",
+    "email": "astha.garg@stanzaliving.com"
+  },
+  {
+    "name": "",
+    "company": "Unidream Solutions",
+    "email": "garima.mishra@unidreamsolutions.com"
+  },
+  {
+    "name": "",
+    "company": "Mahagun Hotels",
+    "email": "careers.spv@mahagunhotels.com"
+  },
+  {
+    "name": "",
+    "company": "AD Consultors",
+    "email": "naina.sharma@adconsultors.com"
+  },
+  {
+    "name": "",
+    "company": "iValue Plus",
+    "email": "niting@ivalueplus.com"
+  },
+  {
+    "name": "",
+    "company": "iValue Plus",
+    "email": "lishaa@ivalueplus.com"
+  },
+  {
+    "name": "",
+    "company": "Christ University",
+    "email": "kusum.lata@christuniversity.in"
+  },
+  {
+    "name": "",
+    "company": "DSEU",
+    "email": "osd.it.automation@dseu.ac.in"
+  },
+  {
+    "name": "",
+    "company": "Spyglass Analytics Software",
+    "email": "diksha.kumari@spyglassanalyticssoftware.com"
+  },
+  {
+    "name": "",
+    "company": "Sarv",
+    "email": "yasha.s@sarv.com"
+  },
+  {
+    "name": "",
+    "company": "Trootech",
+    "email": "divyani.porwal@trootech.com"
+  },
+  {
+    "name": "",
+    "company": "Mindlance",
+    "email": "priya1@mindlance.com"
+  },
+  {
+    "name": "",
+    "company": "REIAS India",
+    "email": "info@reiasindia.com"
+  },
+  {
+    "name": "",
+    "company": "RebootXP",
+    "email": "monisha.dhalwal@rebootxp.com"
+  },
+  {
+    "name": "",
+    "company": "Lemon Tree Hotels",
+    "email": "hkm.l60@lemontreehotels.com"
+  },
+  {
+    "name": "",
+    "company": "Register Karo",
+    "email": "shipra@registerkaro.com"
+  },
+  {
+    "name": "",
+    "company": "Shenzyn",
+    "email": "sangha.g@shenzyn.com"
+  },
+  {
+    "name": "",
+    "company": "IPISPL",
+    "email": "hr.recruitment@ipispl.in"
+  },
+  {
+    "name": "",
+    "company": "TaskUs",
+    "email": "sakshi.katke@taskus.com"
+  },
+  {
+    "name": "",
+    "company": "WCube India",
+    "email": "aashi@wcubeindia.com"
+  },
+  {
+    "name": "",
+    "company": "TWSOL",
+    "email": "damodhar.k@twsol.com"
+  },
+  {
+    "name": "",
+    "company": "Shiprocket",
+    "email": "umesh.chandra@shiprocket.com"
+  },
+  {
+    "name": "",
+    "company": "Shiprocket",
+    "email": "suraj.gupta@shiprocket.com"
+  },
+  {
+    "name": "",
+    "company": "Skyleaf Global",
+    "email": "sonal@skyleaf.global"
+  },
+  {
+    "name": "",
+    "company": "Sparkl",
+    "email": "hiring@sparkl.me"
+  },
+  {
+    "name": "",
+    "company": "Genpact",
+    "email": "preeti.naik@genpact.com"
+  },
+  {
+    "name": "",
+    "company": "Laburnum Developers",
+    "email": "hr@laburnumdevelopers.com"
+  },
+  {
+    "name": "",
+    "company": "Tyroo",
+    "email": "tarmeet.k@tyroo.com"
+  },
+  {
+    "name": "",
+    "company": "ACGNet",
+    "email": "saurav.kumar@acgnet.in"
+  },
+  {
+    "name": "",
+    "company": "Knowcraft",
+    "email": "careers@knowcraft.in"
+  },
+  {
+    "name": "",
+    "company": "Cvent",
+    "email": "ekta.tripathi-v@cvent.com"
+  },
+  {
+    "name": "",
+    "company": "Royal Orchid Hotels",
+    "email": "hr.rseg@royalorchidhotels.com"
+  },
+  {
+    "name": "",
+    "company": "MyParkPlus",
+    "email": "palak.sharma@myparkplus.com"
+  },
+  {
+    "name": "",
+    "company": "Quicket Solutions",
+    "email": "syadav@quicketsolutions.com"
+  },
+  {
+    "name": "",
+    "company": "Quicket Solutions",
+    "email": "hkaur@quicketsolutions.com"
+  },
+  {
+    "name": "",
+    "company": "Medlix",
+    "email": "hr@medlix.in"
+  },
+  {
+    "name": "",
+    "company": "UpGrad",
+    "email": "liltesh.sharma@upgrad.com"
+  },
+  {
+    "name": "",
+    "company": "DLF",
+    "email": "singh-neha@dlf.in"
+  },
+  {
+    "name": "",
+    "company": "IHG",
+    "email": "ajit.soni@ihg.com"
+  },
+  {
+    "name": "",
+    "company": "GetWork",
+    "email": "priyanka@getwork.org"
+  },
+  {
+    "name": "",
+    "company": "Oodles",
+    "email": "recruitment@oodles.io"
+  },
+  {
+    "name": "",
+    "company": "Recruiter India",
+    "email": "info@recruiterind.com"
+  },
+  {
+    "name": "",
+    "company": "GetWork",
+    "email": "tanyasharma@getwork.org"
+  },
+  {
+    "name": "",
+    "company": "Genpact",
+    "email": "nandini.singh1@genpact.com"
+  },
+  {
+    "name": "",
+    "company": "Nucleus Advisors",
+    "email": "pooja.sharma@nucleusadvisors.in"
+  },
+  {
+    "name": "",
+    "company": "Vacobinary",
+    "email": "raasha.sharma@vacobinary.in"
+  },
+  {
+    "name": "",
+    "company": "HexaHealth",
+    "email": "anish.jhalani@hexahealth.com"
+  },
+  {
+    "name": "",
+    "company": "BaffleSol",
+    "email": "hr@bafflesol.com"
+  },
+  {
+    "name": "",
+    "company": "JInfraTech",
+    "email": "hr@jinfratech.com"
+  },
+  {
+    "name": "",
+    "company": "XpressionCorp",
+    "email": "saumya.anand@xpressioncorp.com"
+  },
+  {
+    "name": "",
+    "company": "Dentsu",
+    "email": "karamjeet.singh@dentsu.com"
+  },
+  {
+    "name": "",
+    "company": "Dentsu",
+    "email": "tejas.jadhav@dentsu.com"
+  },
+  {
+    "name": "",
+    "company": "Dentsu",
+    "email": "sanju.suryawanshi@dentsu.com"
+  },
+  {
+    "name": "",
+    "company": "CII",
+    "email": "deepti.tandon@cii.in"
+  },
+  {
+    "name": "",
+    "company": "Sarthak India",
+    "email": "tarun.bansal@sarthakindia.org"
+  },
+  {
+    "name": "",
+    "company": "Genpact",
+    "email": "nancy.krishnan@genpact.com"
+  },
+  {
+    "name": "",
+    "company": "Acme Services",
+    "email": "poornimajadhav@acme-services.in"
+  },
+  {
+    "name": "",
+    "company": "Recruit91",
+    "email": "team@recruit91.com"
+  },
+  {
+    "name": "",
+    "company": "Vaidam",
+    "email": "hr@vaidam.com"
+  },
+  {
+    "name": "",
+    "company": "Mazars",
+    "email": "jobs@mazars.co.in"
+  },
+  {
+    "name": "",
+    "company": "MyRaasta",
+    "email": "kapil.dev@myraasta.in"
+  },
+  {
+    "name": "",
+    "company": "Quytech",
+    "email": "priyanka.singh@quytech.com"
+  },
+  {
+    "name": "",
+    "company": "AiSensy",
+    "email": "careers@aisensy.com"
+  },
+  {
+    "name": "",
+    "company": "Spectral",
+    "email": "shivani.n@spectral.in"
+  },
+  {
+    "name": "",
+    "company": "HexaHealth",
+    "email": "chirag.rustagi@hexahealth.com"
+  },
+  {
+    "name": "",
+    "company": "Tecnimont",
+    "email": "d.gupte@tecnimont.in"
+  },
+  {
+    "name": "",
+    "company": "PropSeller",
+    "email": "humna.javed@propseller.co.in"
+  },
+  {
+    "name": "",
+    "company": "PW Live",
+    "email": "shinki.tiwari@pw.live"
+  },
+  {
+    "name": "",
+    "company": "AML Right Source",
+    "email": "shubham-b.singh@amlrightsource.com"
+  },
+  {
+    "name": "",
+    "company": "Protiviti Global",
+    "email": "tajinder.gill@protivitiglobal.in"
+  },
+  {
+    "name": "",
+    "company": "HDFC Bank",
+    "email": "sumit.sharma2@hdfcbank.com"
+  },
+  {
+    "name": "",
+    "company": "Path Infotech",
+    "email": "sandhya.sharma@pathinfotech.com"
+  },
+  {
+    "name": "",
+    "company": "Largeton",
+    "email": "mamta.verma@largeton.com"
+  },
+  {
+    "name": "",
+    "company": "PaddleLift",
+    "email": "raghvi.goel@paddlelift.com"
+  },
+  {
+    "name": "",
+    "company": "Net2Source",
+    "email": "smita@net2source.com"
+  },
+  {
+    "name": "",
+    "company": "MNR Solutions",
+    "email": "hr1@mnrsolutions.in"
+  },
+  {
+    "name": "",
+    "company": "Axtrum",
+    "email": "priya.sharma@axtrum.com"
+  },
+  {
+    "name": "",
+    "company": "Satya MicroCapital",
+    "email": "vandana.ojha@satyamicrocapital.com"
+  },
+  {
+    "name": "",
+    "company": "KRBL India",
+    "email": "hr2intdiv@krblindia.com"
+  },
+  {
+    "name": "",
+    "company": "ETeamInc",
+    "email": "bpriya@eteaminc.com"
+  },
+  {
+    "name": "",
+    "company": "Crox Consulting",
+    "email": "ashish.singh@croxconsulting.com"
+  },
+  {
+    "name": "",
+    "company": "Citixsys",
+    "email": "talent.team@citixsys.com"
+  },
+  {
+    "name": "",
+    "company": "MyMoneyMantra",
+    "email": "richa.dubey@mymoneymantra.com"
+  },
+  {
+    "name": "",
+    "company": "XZiant",
+    "email": "hr@xziant.com"
+  },
+  {
+    "name": "",
+    "company": "VBeyond",
+    "email": "ankitas@vbeyond.com"
+  },
+  {
+    "name": "",
+    "company": "Hiyamee",
+    "email": "paridhi.sharma@hiyamee.com"
+  },
+  {
+    "name": "",
+    "company": "Corpseed",
+    "email": "poonam.gautam@corpseed.com"
+  },
+  {
+    "name": "",
+    "company": "Corpseed",
+    "email": "bhavya.thakur@corpseed.com"
+  },
+  {
+    "name": "",
+    "company": "InstaAstro",
+    "email": "recruitment@instaastro.in"
+  },
+  {
+    "name": "",
+    "company": "EXL Neo",
+    "email": "lalit@exlneo.com"
+  },
+  {
+    "name": "",
+    "company": "Business Thrust",
+    "email": "nimisha@businessthrust.com"
+  },
+  {
+    "name": "",
+    "company": "JConnect",
+    "email": "namrata@jconnect.in"
+  },
+  {
+    "name": "",
+    "company": "Ienergizer",
+    "email": "radhe.shyam@ienergizer.com"
+  },
+  {
+    "name": "",
+    "company": "Infopro Learning",
+    "email": "shubham.saxena@infoprolearning.com"
+  },
+  {
+    "name": "",
+    "company": "SalonTym",
+    "email": "sumit@salontym.com"
+  },
+  {
+    "name": "",
+    "company": "QTech Global",
+    "email": "manju.rani@qtechglobal.com"
+  },
+  {
+    "name": "",
+    "company": "Genpact",
+    "email": "kashish.chopra@genpact.com"
+  },
+  {
+    "name": "",
+    "company": "Cloudsheer",
+    "email": "hr@cloudsheer.com"
+  },
+  {
+    "name": "",
+    "company": "Coronis Health",
+    "email": "atyagi1564@coronishealth.com"
+  },
+  {
+    "name": "",
+    "company": "Innova ESI",
+    "email": "shivali.srivastava@innovaesi.com"
+  },
+  {
+    "name": "",
+    "company": "Edge Global",
+    "email": "hr@edgeglobal.net"
+  },
+  {
+    "name": "",
+    "company": "Stratosphere",
+    "email": "shubhamsingh@stratosphere.co.in"
+  },
+  {
+    "name": "",
+    "company": "Way2Class",
+    "email": "sunita.sinha@way2class.com"
+  },
+  {
+    "name": "",
+    "company": "Motherson",
+    "email": "satyaprakash.pandey@motherson.com"
+  },
+  {
+    "name": "",
+    "company": "Skylan IT",
+    "email": "sr.hr@skylanit.in"
+  },
+  {
+    "name": "",
+    "company": "Mindlance",
+    "email": "nidhiv@mindlance.com"
+  },
+  {
+    "name": "",
+    "company": "STAP",
+    "email": "varsha@stap.co.in"
+  },
+  {
+    "name": "",
+    "company": "Makoto HR",
+    "email": "ganesh@makotohr.net"
+  },
+  {
+    "name": "",
+    "company": "Mindlance",
+    "email": "tanyas2@mindlance.com"
+  },
+  {
+    "name": "",
+    "company": "Perfeasy",
+    "email": "hr@perfeasy.com"
+  },
+  {
+    "name": "",
+    "company": "LeadSquared",
+    "email": "babita.khemani@leadsquared.com"
+  },
+  {
+    "name": "",
+    "company": "Exasoft Global",
+    "email": "divyamohite@exasoftglobal.com"
+  },
+  {
+    "name": "",
+    "company": "ESOL Global",
+    "email": "kapil.n@esolglobal.com"
+  },
+  {
+    "name": "",
+    "company": "Genpact",
+    "email": "850076505@genpact.com"
+  },
+  {
+    "name": "",
+    "company": "Infogain",
+    "email": "durgesh1.sharma@infogain.com"
+  },
+  {
+    "name": "",
+    "company": "Makoto HR",
+    "email": "ishita@makotohr.net"
+  },
+  {
+    "name": "",
+    "company": "AMS Inform",
+    "email": "hr@amsinform.com"
+  },
+  {
+    "name": "",
+    "company": "Appsinvo",
+    "email": "info@appsinvo.com"
+  },
+  {
+    "name": "",
+    "company": "Headfield",
+    "email": "shipra@headfield.com"
+  },
+  {
+    "name": "",
+    "company": "Minda Corporation",
+    "email": "shivani.gupta@mindacorporation.com"
+  },
+  {
+    "name": "",
+    "company": "IRA Hotels",
+    "email": "neelam.barik@irahotels.com"
+  },
+  {
+    "name": "",
+    "company": "Expedite Inc.",
+    "email": "chhaya.gupta@expediteinc.com"
+  },
+  {
+    "name": "",
+    "company": "Makoto HR",
+    "email": "khushboo@makotohr.net"
+  },
+  {
+    "name": "",
+    "company": "CodeStore Solutions",
+    "email": "nikky.sharma@codestoresolutions.com"
+  },
+  {
+    "name": "",
+    "company": "Midas Consulting",
+    "email": "nitin.mohan@midasconsulting.org"
+  },
+  {
+    "name": "",
+    "company": "INJ Partners",
+    "email": "sonika.negi@injpartners.com"
+  },
+  {
+    "name": "",
+    "company": "VMV Cube Info",
+    "email": "hr@vmvcubeinfo.com"
+  },
+  {
+    "name": "",
+    "company": "Okaya Info",
+    "email": "annapurna.singh@okayainfo.com"
+  },
+  {
+    "name": "",
+    "company": "AlphaDroid",
+    "email": "careers@alphadroid.io"
+  },
+  {
+    "name": "",
+    "company": "GoDigit",
+    "email": "ajayant.kirtee@godigit.com"
+  },
+  {
+    "name": "",
+    "company": "IntegerTel",
+    "email": "rajesh.kumar@integertel.com"
+  },
+  {
+    "name": "",
+    "company": "Aspire and Succeed HR",
+    "email": "purnima@aspireandsucceedhr.com"
+  },
+  {
+    "name": "",
+    "company": "Neer Info",
+    "email": "shalini@neerinfo.com"
+  },
+  {
+    "name": "",
+    "company": "Business Integra",
+    "email": "ravi.singh@businessintegra.com"
+  },
+  {
+    "name": "",
+    "company": "People Resources",
+    "email": "babita.rawat@peopleresources.in"
+  },
+  {
+    "name": "",
+    "company": "Tek Inspirations",
+    "email": "tanishka.tomar@tekinspirations.com"
+  },
+  {
+    "name": "",
+    "company": "Tech Mahindra",
+    "email": "js00618041@techmahindra.com"
+  },
+  {
+    "name": "",
+    "company": "Quess Corp",
+    "email": "priyanka.lamba@quesscorp.com"
+  },
+  {
+    "name": "",
+    "company": "Webs Login",
+    "email": "hr@webslogin.com"
+  },
+  {
+    "name": "",
+    "company": "Successive Tech",
+    "email": "sapna.upreti@successive.tech"
+  },
+  {
+    "name": "",
+    "company": "R Systems",
+    "email": "shankar.rawat@rsystems.com"
+  },
+  {
+    "name": "",
+    "company": "PerfeSay",
+    "email": "hr@perfesay.com"
+  },
+  {
+    "name": "",
+    "company": "Genesis GS",
+    "email": "career@genesisgs.edu.in"
+  },
+  {
+    "name": "",
+    "company": "Genesis GS",
+    "email": "hr@genesisgs.edu.in"
+  },
+  {
+    "name": "",
+    "company": "Opportunity Hubb",
+    "email": "priyanka@opportunityhubb.com"
+  },
+  {
+    "name": "",
+    "company": "MeteC Electronics",
+    "email": "hr2@metecelectronics.in"
+  },
+  {
+    "name": "",
+    "company": "Ezeepay",
+    "email": "hr@ezeepay.app"
+  },
+  {
+    "name": "",
+    "company": "Tagline Infotech",
+    "email": "careers@taglineinfotech.com"
+  },
+  {
+    "name": "",
+    "company": "Wipro",
+    "email": "pratibha.deshmukh@wipro.com"
+  },
+  {
+    "name": "",
+    "company": "Dexian",
+    "email": "sangeeta.kammar@dexian.com"
+  },
+  {
+    "name": "",
+    "company": "Quess Corp",
+    "email": "mallikarjuna.n@quesscorp.com"
+  },
+  {
+    "name": "",
+    "company": "AppCrave",
+    "email": "business@appcrave.co"
+  },
+  {
+    "name": "",
+    "company": "NTT Global",
+    "email": "gauri.rajput@global.ntt"
+  },
+  {
+    "name": "",
+    "company": "VDA Info Solutions",
+    "email": "sunny.azmi@vdainfosolutions.com"
+  },
+  {
+    "name": "",
+    "company": "GI Group Holding",
+    "email": "jyotsna.rawat@gigroupholding.com"
+  },
+  {
+    "name": "",
+    "company": "AJG",
+    "email": "sana_shaikh5@ajg.com"
+  },
+  {
+    "name": "",
+    "company": "UHire Tech",
+    "email": "ta@uhire.tech"
+  },
+  {
+    "name": "",
+    "company": "Vy Systems",
+    "email": "hariprasanth@vysystems.com"
+  },
+  {
+    "name": "",
+    "company": "Fulcrum Digital",
+    "email": "vitthal.kulkarni@fulcrumdigital.com"
+  },
+  {
+    "name": "",
+    "company": "KSolves",
+    "email": "joni.sharma@ksolves.com"
+  },
+  {
+    "name": "",
+    "company": "Nexgen Drying",
+    "email": "pradnyesh@nexgendrying.com"
+  },
+  {
+    "name": "",
+    "company": "Nexgen Drying",
+    "email": "vikas@nexgendrying.com"
+  },
+  {
+    "name": "",
+    "company": "Taggd",
+    "email": "ashish.bhatt@taggd.in"
+  },
+  {
+    "name": "",
+    "company": "FlytBase",
+    "email": "arshia.verma@flytbase.com"
+  },
+  {
+    "name": "",
+    "company": "Shapoorji",
+    "email": "amit.pandit@shapoorji.com"
+  },
+  {
+    "name": "",
+    "company": "Eleno Energy",
+    "email": "kinjal.k@elenoenergy.com"
+  },
+  {
+    "name": "",
+    "company": "TSL Marketing",
+    "email": "vpatil@tslmarketing.in"
+  },
+  {
+    "name": "",
+    "company": "BizSupportC",
+    "email": "manali.barde@bizsupportc.com"
+  },
+  {
+    "name": "",
+    "company": "HCSS Group",
+    "email": "priyanka.kardile@hcssgroup.com"
+  },
+  {
+    "name": "",
+    "company": "SRJ Steel",
+    "email": "hr@srjsteel.in"
+  },
+  {
+    "name": "",
+    "company": "TechBliss Digital",
+    "email": "shweta.singh@techblissdigital.com"
+  },
+  {
+    "name": "",
+    "company": "Futran Solutions",
+    "email": "ckalyani@futransolutions.com"
+  },
+  {
+    "name": "",
+    "company": "NICE",
+    "email": "shruti.arora@nice.com"
+  },
+  {
+    "name": "",
+    "company": "Alten India",
+    "email": "vaishnavi.sonar@alten-india.com"
+  },
+  {
+    "name": "",
+    "company": "AstroTalk",
+    "email": "debasmita.roy@astrotalk.com"
+  },
+  {
+    "name": "",
+    "company": "Outline Systems India",
+    "email": "deepikas@outlinesystemsindia.com"
+  },
+  {
+    "name": "",
+    "company": "TN Services",
+    "email": "ayushi@tnservices.in"
+  },
+  {
+    "name": "",
+    "company": "Accely",
+    "email": "sonia.b@accely.com"
+  },
+  {
+    "name": "",
+    "company": "Adani",
+    "email": "sandeep.kumar3@adani.com"
+  },
+  {
+    "name": "",
+    "company": "WeAssemble",
+    "email": "recruitment@weassemble.team"
+  },
+  {
+    "name": "",
+    "company": "Reliance Industries Limited (RIL)",
+    "email": "mandar.shigwan@ril.com"
+  },
+  {
+    "name": "",
+    "company": "Reliance Industries Limited (RIL)",
+    "email": "arnab1.mitra@ril.com"
+  },
+  {
+    "name": "",
+    "company": "GEP",
+    "email": "revati.karnik@gep.com"
+  },
+  {
+    "name": "",
+    "company": "Rathi",
+    "email": "ibrecruitment@rathi.com"
+  },
+  {
+    "name": "",
+    "company": "Rathi",
+    "email": "parthsarda@rathi.com"
+  },
+  {
+    "name": "",
+    "company": "The 7th Fold",
+    "email": "hamsaz@the7thfold.com"
+  },
+  {
+    "name": "",
+    "company": "Apollo Hospitals",
+    "email": "jobs_mumbai@apollohospitals.com"
+  },
+  {
+    "name": "",
+    "company": "TR Chadha",
+    "email": "palakkhatri@trchadha.com"
+  },
+  {
+    "name": "",
+    "company": "2COMS",
+    "email": "sreevidya.m@2coms.com"
+  },
+  {
+    "name": "",
+    "company": "Native World",
+    "email": "deepa.krishnan@nativeworld.com"
+  },
+  {
+    "name": "",
+    "company": "Qualitrix",
+    "email": "careers@qualitrix.com"
+  },
+  {
+    "name": "",
+    "company": "Aussizz Group",
+    "email": "komal.dabhi@aussizzgroup.com"
+  },
+  {
+    "name": "",
+    "company": "Schbang",
+    "email": "priyanka.balmiki@schbang.com"
+  },
+  {
+    "name": "",
+    "company": "eClerx",
+    "email": "neha.kumari06.c@eclerx.com"
+  },
+  {
+    "name": "",
+    "company": "Legrand",
+    "email": "aakanksha.pandia@legrand.com"
+  },
+  {
+    "name": "",
+    "company": "HireCrest",
+    "email": "nidhi@hirecrest.in"
+  },
+  {
+    "name": "",
+    "company": "Parag Foods",
+    "email": "shivangi.mishra@parag.com"
+  },
+  {
+    "name": "",
+    "company": "Beyond Sourcing",
+    "email": "niyati@beyondsourcing.co.in"
+  },
+  {
+    "name": "",
+    "company": "Sea and Beyond",
+    "email": "hussain@seaandbeyond.com"
+  },
+  {
+    "name": "",
+    "company": "Harjai",
+    "email": "farha.ratnani@harjai.com"
+  },
+  {
+    "name": "",
+    "company": "Expound Technivo",
+    "email": "kajal.gupta@expoundtechnivo.com"
+  },
+  {
+    "name": "",
+    "company": "Hyatt",
+    "email": "surinder.kumar@hyatt.com"
+  },
+  {
+    "name": "",
+    "company": "Reliance Industries Limited (RIL)",
+    "email": "romita1.banerjee@ril.com"
+  },
+  {
+    "name": "",
+    "company": "Sharad Mishra",
+    "email": "advisory@sharadmishra.com"
+  },
+  {
+    "name": "",
+    "company": "EY (Ernst & Young)",
+    "email": "anshul.lavti@in.ey.com"
+  },
+  {
+    "name": "",
+    "company": "White Globe",
+    "email": "talent.acquisition@whiteglobe.co.in"
+  },
+  {
+    "name": "",
+    "company": "White Globe",
+    "email": "partner.manager@whiteglobe.co.in"
+  },
+  {
+    "name": "",
+    "company": "KW Global",
+    "email": "atul.kumar@kwglobal.com"
+  },
+  {
+    "name": "",
+    "company": "ECLF",
+    "email": "icareers@eclf.com"
+  },
+  {
+    "name": "",
+    "company": "IndusInd Bank",
+    "email": "mohit.saxena@indusind.com"
+  },
+  {
+    "name": "",
+    "company": "IndusInd Bank",
+    "email": "vijeta.doneria@indusind.com"
+  },
+  {
+    "name": "",
+    "company": "Cognizant",
+    "email": "rahul.patil238080@cognizant.com"
+  },
+  {
+    "name": "",
+    "company": "ALS Global",
+    "email": "aarti.prabhune@alsglobal.com"
+  },
+  {
+    "name": "",
+    "company": "Labyrinth",
+    "email": "rajni.chickerur@labyrinth.in"
+  },
+  {
+    "name": "",
+    "company": "Grant Thornton",
+    "email": "labdhi.jhatakia@in.gt.com"
+  },
+  {
+    "name": "",
+    "company": "JLL (Jones Lang LaSalle)",
+    "email": "ashwini.prajapati@jll.com"
+  },
+  {
+    "name": "",
+    "company": "Head Field",
+    "email": "parul@head-field.com"
+  },
+  {
+    "name": "",
+    "company": "Alois Solutions",
+    "email": "megha.vaghasia@aloissolutions.com"
+  },
+  {
+    "name": "",
+    "company": "Safran Group",
+    "email": "jyoti.mehra@safrangroup.com"
+  },
+  {
+    "name": "",
+    "company": "TWSOL",
+    "email": "meimozhi.b@twsol.com"
+  },
+  {
+    "name": "",
+    "company": "Titan Pharma",
+    "email": "shweta.m@titanpharma.com"
+  },
+  {
+    "name": "",
+    "company": "Apex Hospitals",
+    "email": "vrajesh@apexhospitals.in"
+  },
+  {
+    "name": "",
+    "company": "Skillventory",
+    "email": "rashmi.khede@skillventory.com"
+  },
+  {
+    "name": "",
+    "company": "Sneha Mumbai",
+    "email": "damini.pandey@snehamumbai.org"
+  },
+  {
+    "name": "",
+    "company": "Placewell India",
+    "email": "hrteam@placewellindia.com"
+  },
+  {
+    "name": "",
+    "company": "OZiva",
+    "email": "hr@oziva.in"
+  },
+  {
+    "name": "",
+    "company": "RightMatch",
+    "email": "shweta@rightmatch.co.in"
+  },
+  {
+    "name": "",
+    "company": "Arcent Global",
+    "email": "vaishali.sah@arcentglobal.com"
+  },
+  {
+    "name": "",
+    "company": "HDFC Bank",
+    "email": "healy.mehta@hdfcbank.com"
+  },
+  {
+    "name": "",
+    "company": "Heritage Foods",
+    "email": "devi.p@heritagefoods.in"
+  },
+  {
+    "name": "",
+    "company": "Michael Page",
+    "email": "thungbeniyanthan@michaelpage.co.in"
+  },
+  {
+    "name": "",
+    "company": "Aegis India",
+    "email": "hr.associate@aegisindia.com"
+  },
+  {
+    "name": "",
+    "company": "QualityKiosk",
+    "email": "kevin.rodricks@qualitykiosk.com"
+  },
+  {
+    "name": "",
+    "company": "QualityKiosk",
+    "email": "deepa.radhakrishnani@qualitykiosk.com"
+  },
+  {
+    "name": "",
+    "company": "MPHAtek",
+    "email": "prem.khadekar@mphatek.com"
+  },
+  {
+    "name": "",
+    "company": "Scrabble Inc.",
+    "email": "financejobs@scrabbleinc.in"
+  },
+  {
+    "name": "",
+    "company": "Bonanza Interactive",
+    "email": "neha@bonanzainteractive.com"
+  },
+  {
+    "name": "",
+    "company": "Chandra Transport",
+    "email": "shubham@chandratransport.in"
+  },
+  {
+    "name": "",
+    "company": "TVM Infotech",
+    "email": "hr@tvminfotech.com"
+  },
+  {
+    "name": "",
+    "company": "Vega Intellisoft",
+    "email": "pricyp@vegaintellisoft.com"
+  },
+  {
+    "name": "",
+    "company": "TekSkills",
+    "email": "lavanya.r@tekskills.in"
+  },
+  {
+    "name": "",
+    "company": "TekSkills",
+    "email": "niteshkumar.r@tekskills.in"
+  },
+  {
+    "name": "",
+    "company": "DTSS",
+    "email": "venkata.kumaran@dtss.in"
+  },
+  {
+    "name": "",
+    "company": "Renaatus",
+    "email": "recruitment@renaatus.com"
+  },
+  {
+    "name": "",
+    "company": "Sofomation",
+    "email": "ginni@sofomation.com"
+  },
+  {
+    "name": "",
+    "company": "Excelencia Consulting",
+    "email": "nandhinidevi.ponnusamy@excelenciaconsulting.com"
+  },
+  {
+    "name": "",
+    "company": "Mahindra",
+    "email": "rajaram.s@mahindra.com"
+  },
+  {
+    "name": "",
+    "company": "LiveC Jobs",
+    "email": "sharada@livecjobs.com"
+  },
+  {
+    "name": "",
+    "company": "STMPL",
+    "email": "charu.deenadhayalan@stmpl.co.in"
+  },
+  {
+    "name": "",
+    "company": "CHS World",
+    "email": "hr@chs.world"
+  },
+  {
+    "name": "",
+    "company": "Military to Corp",
+    "email": "megha@militarytocorp.com"
+  },
+  {
+    "name": "",
+    "company": "Accelon Inc.",
+    "email": "gowthami@acceloninc.com"
+  },
+  {
+    "name": "",
+    "company": "LiveC Jobs",
+    "email": "vimal@livecjobs.com"
+  },
+  {
+    "name": "",
+    "company": "Right Move Consultants",
+    "email": "anjalip@rightmoveconsultants.com"
+  },
+  {
+    "name": "",
+    "company": "Pride Global",
+    "email": "shrasti.tiwari@prideglobal.com"
+  },
+  {
+    "name": "",
+    "company": "Covenant India",
+    "email": "annie.a@covenantindia.net"
+  },
+  {
+    "name": "",
+    "company": "Asia Tech Center",
+    "email": "prafulla.bari@asiatechcenter.in"
+  },
+  {
+    "name": "",
+    "company": "Pinkerton",
+    "email": "jasmeen.keer@pinkerton.com"
+  },
+  {
+    "name": "",
+    "company": "The Gig Pool",
+    "email": "shilpa@thegigpool.com"
+  },
+  {
+    "name": "",
+    "company": "Skillventory",
+    "email": "arpita.kasar@skillventory.com"
+  },
+  {
+    "name": "",
+    "company": "Meril Life",
+    "email": "rituja.nanavare@merillife.com"
+  },
+  {
+    "name": "",
+    "company": "SharedPro",
+    "email": "sayondeep@sharedpro.in"
+  },
+  {
+    "name": "",
+    "company": "TVS Credit",
+    "email": "magesh.radhakrishnan@tvscredit.com"
+  },
+  {
+    "name": "",
+    "company": "Comcast",
+    "email": "deselvan_annadurai@comcast.com"
+  },
+  {
+    "name": "",
+    "company": "AS Law Online",
+    "email": "info@aslawonline.com"
+  },
+  {
+    "name": "",
+    "company": "Luminad",
+    "email": "balaji.chandran@luminad.com"
+  },
+  {
+    "name": "",
+    "company": "Yash",
+    "email": "fahad.khan@yash.com"
+  },
+  {
+    "name": "",
+    "company": "Pinkerton",
+    "email": "abhay.tewari@pinkerton.com"
+  },
+  {
+    "name": "",
+    "company": "MNR Solutions",
+    "email": "gaurav.singh@mnrsolutions.in"
+  },
+  {
+    "name": "",
+    "company": "PW Live",
+    "email": "apoorva.garg@pw.live"
+  },
+  {
+    "name": "",
+    "company": "Hotel Green Park",
+    "email": "hrmgr.chn@hotelgreenpark.com"
+  },
+  {
+    "name": "",
+    "company": "Hotel Green Park",
+    "email": "hrd.chn@hotelgreenpark.com"
+  },
+  {
+    "name": "",
+    "company": "Jaas Technologies",
+    "email": "arpita.k@jaastechnologies.com"
+  },
+  {
+    "name": "",
+    "company": "Wudfe",
+    "email": "contact@wudfe.com"
+  },
+  {
+    "name": "",
+    "company": "NoblQ",
+    "email": "natarajan.chandran@noblq.com"
+  },
+  {
+    "name": "",
+    "company": "PeopleStaff",
+    "email": "divyanshu@peoplestaff.in"
+  },
+  {
+    "name": "",
+    "company": "Coolman Innovations",
+    "email": "shayeestanaaz@coolmaninnovations.com"
+  },
+  {
+    "name": "",
+    "company": "Ninja Technolabs",
+    "email": "hr@ninjatechnolabs.com"
+  },
+  {
+    "name": "",
+    "company": "360 Realtors",
+    "email": "sneha.pillai@360realtors.com"
+  },
+  {
+    "name": "",
+    "company": "Honda eSwap",
+    "email": "recruit@honda-eswap.co.in"
+  },
+  {
+    "name": "",
+    "company": "Aloft Hotels",
+    "email": "neha.mubarak@alofthotels.com"
+  },
+  {
+    "name": "",
+    "company": "Ramada Bengaluru Yelahanka",
+    "email": "gm@ramadabengaluruyelahanka.com"
+  },
+  {
+    "name": "",
+    "company": "The Sai Leela",
+    "email": "ceo@thesaileela.com"
+  },
+  {
+    "name": "",
+    "company": "Natural Plant Protection",
+    "email": "sandesh.k@naturalplantprotection.com"
+  },
+  {
+    "name": "",
+    "company": "Marriott",
+    "email": "ishika.tiwari@marriott.com"
+  },
+  {
+    "name": "",
+    "company": "Hilton",
+    "email": "sweta.kumari@hilton.com"
+  },
+  {
+    "name": "",
+    "company": "Intelizign",
+    "email": "prachi.kamble@intelizign.com"
+  },
+  {
+    "name": "",
+    "company": "Marriott",
+    "email": "yasir.ansari@marriott.com"
+  },
+  {
+    "name": "",
+    "company": "Calsoft Inc.",
+    "email": "gayatri.dahake@calsoftinc.com"
+  },
+  {
+    "name": "",
+    "company": "Indegene",
+    "email": "deepika.anandan@indegene.com"
+  },
+  {
+    "name": "",
+    "company": "EY (Ernst & Young)",
+    "email": "anchal.vohra@in.ey.com"
+  },
+  {
+    "name": "",
+    "company": "The Finder",
+    "email": "get-hired@thefinder.co.in"
+  },
+  {
+    "name": "",
+    "company": "Apex Services",
+    "email": "recruitment@apexservices.in"
+  },
+  {
+    "name": "",
+    "company": "Genpact",
+    "email": "ashish.dawrani@genpact.com"
+  },
+  {
+    "name": "",
+    "company": "Innocito",
+    "email": "careers@innocito.com"
+  },
+  {
+    "name": "",
+    "company": "Amgen",
+    "email": "averma20@amgen.com"
+  },
+  {
+    "name": "",
+    "company": "Centraprise",
+    "email": "sravanthi.y@centraprise.com"
+  },
+  {
+    "name": "",
+    "company": "Volttic",
+    "email": "bapu.sangle@volttic.com"
+  },
+  {
+    "name": "",
+    "company": "Volttic",
+    "email": "hr@volttic.com"
+  },
+  {
+    "name": "",
+    "company": "Taj Hotels",
+    "email": "mohanty.arati@tajhotels.com"
+  },
+  {
+    "name": "",
+    "company": "Syngene International",
+    "email": "abhisek.padhy@syngeneintl.com"
+  },
+  {
+    "name": "",
+    "company": "Electronic Arts (EA)",
+    "email": "mboggula@contractor.ea.com"
+  },
+  {
+    "name": "",
+    "company": "TD Newton",
+    "email": "pooja@tdnewton.com"
+  },
+  {
+    "name": "",
+    "company": "EY (Ernst & Young)",
+    "email": "siddharth.soni@in.ey.com"
+  },
+  {
+    "name": "",
+    "company": "Kaar Technologies",
+    "email": "sravani.k@kaaratech.com"
+  },
+  {
+    "name": "",
+    "company": "TalentSteer",
+    "email": "puja.singh@talentsteer.com"
+  },
+  {
+    "name": "",
+    "company": "Equal.in",
+    "email": "nisha@equal.in"
+  },
+  {
+    "name": "",
+    "company": "AppItSimple",
+    "email": "shubhirishi@appitsimple.com"
+  },
+  {
+    "name": "",
+    "company": "Coding Zone Solutions",
+    "email": "hr@codingzonesolutions.in"
+  },
+  {
+    "name": "",
+    "company": "CredMantra",
+    "email": "hr@credmantra.co.in"
+  },
+  {
+    "name": "",
+    "company": "Code4Each",
+    "email": "hr@code4each.com"
+  },
+  {
+    "name": "",
+    "company": "Code4Each",
+    "email": "sakshi@code4each.com"
+  },
+  {
+    "name": "",
+    "company": "AuspiciousSoft",
+    "email": "nikita@auspicioussoft.com"
+  },
+  {
+    "name": "",
+    "company": "LP Infotech",
+    "email": "megha@lpinfotech.com"
+  },
+  {
+    "name": "",
+    "company": "Code Insects",
+    "email": "hr@codeinsects.com"
+  },
+  {
+    "name": "",
+    "company": "WiCommFi",
+    "email": "ishnoor@wicommfi.com"
+  },
+  {
+    "name": "",
+    "company": "AceWebX",
+    "email": "hr@acewebx.com"
+  },
+  {
+    "name": "",
+    "company": "Code Brew",
+    "email": "pooja.hr@code-brew.com"
+  },
+  {
+    "name": "",
+    "company": "Park Hospital",
+    "email": "hr.mohali@parkhospital.in"
+  },
+  {
+    "name": "",
+    "company": "Shalby Hospitals",
+    "email": "hr2.corp@shalby.in"
+  },
+  {
+    "name": "",
+    "company": "Apptunix",
+    "email": "sonam@apptunix.com"
+  },
+  {
+    "name": "",
+    "company": "DesignersX",
+    "email": "kush.sharma@designersx.com"
+  },
+  {
+    "name": "",
+    "company": "CuMail",
+    "email": "suraj.hrd@cumail.in"
+  },
+  {
+    "name": "",
+    "company": "ZapWhizz",
+    "email": "hr@zapwhizz.com"
+  },
+  {
+    "name": "",
+    "company": "IyeTec",
+    "email": "deeksha.sharma@iyetec.com"
+  },
+  {
+    "name": "",
+    "company": "P Square Company",
+    "email": "hr@psquarecompany.com"
+  },
+  {
+    "name": "",
+    "company": "TechBit Solution",
+    "email": "tanuja.chaudhary@techbitsolution.com"
+  },
+  {
+    "name": "",
+    "company": "Boang",
+    "email": "ankush.nadda@boang.co.in"
+  },
+  {
+    "name": "",
+    "company": "LBM Solutions",
+    "email": "priti.chaudhary@lbmsolutions.in"
+  },
+  {
+    "name": "",
+    "company": "Jeronone",
+    "email": "hr3@jeronone.com"
+  },
+  {
+    "name": "",
+    "company": "Rank Brew",
+    "email": "jatin@rank-brew.com"
+  },
+  {
+    "name": "",
+    "company": "Eminence Technology",
+    "email": "hr@eminencetechnology.com"
+  },
+  {
+    "name": "",
+    "company": "Intelligent Consulting Engineers",
+    "email": "madhuri.aggarwal@intelligentconsultingengineers.com"
+  },
+  {
+    "name": "",
+    "company": "32 Bit Solutions",
+    "email": "hr@32bitsolutions.com"
+  },
+  {
+    "name": "",
+    "company": "Offbeat Software Solutions",
+    "email": "dmonga@offbeatsoftwaresolutions.in"
+  },
+  {
+    "name": "",
+    "company": "Ingenious NetSoft",
+    "email": "career@ingeniousnetsoft.com"
+  },
+  {
+    "name": "",
+    "company": "Suffescom",
+    "email": "vandana@suffescom.in"
+  },
+  {
+    "name": "",
+    "company": "CGC",
+    "email": "shikha.hr@cgc.edu.in"
+  },
+  {
+    "name": "",
+    "company": "BeeSolver Technology",
+    "email": "skaur@beesolvertechnology.in"
+  },
+  {
+    "name": "",
+    "company": "Apptunix",
+    "email": "dikshaverma@apptunix.com"
+  },
+  {
+    "name": "",
+    "company": "75Way",
+    "email": "hr@75way.com"
+  },
+  {
+    "name": "",
+    "company": "WebNaita",
+    "email": "hr@webnaita.com"
+  },
+  {
+    "name": "",
+    "company": "WebNaitra",
+    "email": "hr@webnaitra.com"
+  },
+  {
+    "name": "",
+    "company": "Oorjaah",
+    "email": "hr@oorjaah.com"
+  },
+  {
+    "name": "",
+    "company": "BuzzClan",
+    "email": "ritika.mehta@buzzclan.com"
+  },
+  {
+    "name": "",
+    "company": "NimusTech",
+    "email": "hr@nimustech.com"
+  },
+  {
+    "name": "",
+    "company": "BruCode",
+    "email": "sanjot@brucode.com"
+  },
+  {
+    "name": "",
+    "company": "NessFiTech",
+    "email": "info@nessfitech.com"
+  },
+  {
+    "name": "",
+    "company": "ChicMic Studios",
+    "email": "isha.rana@chicmicstudios.in"
+  },
+  {
+    "name": "",
+    "company": "Hero HFL",
+    "email": "akshay.goswami@herohfl.com"
+  },
+  {
+    "name": "",
+    "company": "TaskUs",
+    "email": "ashima.vohra@taskus.com"
+  },
+  {
+    "name": "",
+    "company": "BizDesire",
+    "email": "hr@bizdesire.com"
+  },
+  {
+    "name": "",
+    "company": "Expandimo",
+    "email": "manisha@expandimo.com"
+  },
+  {
+    "name": "",
+    "company": "Amable",
+    "email": "hiring@amable.co.in"
+  },
+  {
+    "name": "",
+    "company": "ExoEdge",
+    "email": "abharti@exoedge.com"
+  },
+  {
+    "name": "",
+    "company": "iCodeLabs",
+    "email": "bandna.saini@icodelabs.co"
+  },
+  {
+    "name": "",
+    "company": "Sai Bhang LogiTrade",
+    "email": "info@saibhanglogitrade.com"
+  },
+  {
+    "name": "",
+    "company": "Web-Forte",
+    "email": "hr@web-forte.com"
+  },
+  {
+    "name": "",
+    "company": "Codobux",
+    "email": "mahima@codobux.com"
+  },
+  {
+    "name": "",
+    "company": "NetWorth RCM",
+    "email": "info@networthrcm.com"
+  },
+  {
+    "name": "",
+    "company": "EnsueSoft",
+    "email": "hr@ensuesoft.com"
+  },
+  {
+    "name": "",
+    "company": "Programming.com",
+    "email": "preeti.bedi@programming.com"
+  },
+  {
+    "name": "",
+    "company": "Ennoble Infotech",
+    "email": "hr@ennobleinfotech.com"
+  },
+  {
+    "name": "",
+    "company": "Blue Mile Digital",
+    "email": "manpreet@bluemiledigital.in"
+  },
+  {
+    "name": "",
+    "company": "Webspero",
+    "email": "komal@webspero.com"
+  },
+  {
+    "name": "",
+    "company": "Matrix Marketers",
+    "email": "mandeep.singh@matrixmarketers.com"
+  },
+  {
+    "name": "",
+    "company": "Bronze Byte",
+    "email": "hr@bronzebyte.com"
+  },
+  {
+    "name": "",
+    "company": "TechArch Softwares",
+    "email": "hr@techarchsoftwares.com"
+  },
+  {
+    "name": "",
+    "company": "Exotica IT Solutions",
+    "email": "hrpriya@exoticaitsolutions.com"
+  },
+  {
+    "name": "",
+    "company": "Vibhuti",
+    "email": "sakshi@vibhuti.biz"
+  },
+  {
+    "name": "",
+    "company": "Webspero",
+    "email": "anchal@webspero.com"
+  },
+  {
+    "name": "",
+    "company": "AblySoft",
+    "email": "sakshi@ablysoft.com"
+  },
+  {
+    "name": "",
+    "company": "Aron Web Solutions",
+    "email": "hr@aronwebsolutions.com"
+  },
+  {
+    "name": "",
+    "company": "Aerial Telecom",
+    "email": "sushil.dharan@aerialtelecom.in"
+  },
+  {
+    "name": "",
+    "company": "DigiMantra",
+    "email": "ragini.aggarwal@digimantra.com"
+  },
+  {
+    "name": "",
+    "company": "Orange Data Tech",
+    "email": "life@orangedatatech.com"
+  },
+  {
+    "name": "",
+    "company": "NetGains",
+    "email": "hr@netgains.org"
+  },
+  {
+    "name": "",
+    "company": "True Tech Pro",
+    "email": "foziya@truetechpro.io"
+  },
+  {
+    "name": "",
+    "company": "Fortec Web Solutions",
+    "email": "hr@fortecwebsolutions.com"
+  },
+  {
+    "name": "",
+    "company": "ThinkSurf Media",
+    "email": "hr@thinksurfmedia.info"
+  },
+  {
+    "name": "",
+    "company": "Avology Pro",
+    "email": "hr@avologypro.com"
+  },
+  {
+    "name": "",
+    "company": "Ditinus Technology",
+    "email": "gurpreet.kaur@ditinustechnology.com"
+  },
+  {
+    "name": "",
+    "company": "WebPlanex",
+    "email": "hr@webplanex.com"
+  },
+  {
+    "name": "",
+    "company": "Meta Design Solutions",
+    "email": "kajal@metadesignsolutions.co.uk"
+  },
+  {
+    "name": "",
+    "company": "Communication Crafts",
+    "email": "minakshi.b@communicationcrafts.com"
+  },
+  {
+    "name": "",
+    "company": "Programming.com",
+    "email": "reeta.pathania@programmimg.com"
+  },
+  {
+    "name": "",
+    "company": "Cypherox",
+    "email": "tulika.hrcx@cypherox.com"
+  },
+  {
+    "name": "",
+    "company": "RNaura",
+    "email": "monika@rnaura.com"
+  },
+  {
+    "name": "",
+    "company": "AGodly",
+    "email": "anjali@agodly.com"
+  },
+  {
+    "name": "",
+    "company": "Accenture",
+    "email": "gitika.b.sharma@accenture.com"
+  },
+  {
+    "name": "",
+    "company": "The GAO Group",
+    "email": "hire-india-c@thegaogroup.com"
+  },
+  {
+    "name": "",
+    "company": "Follishi Tech Solutions",
+    "email": "hr@follishitechsolutions.org"
+  },
+  {
+    "name": "",
+    "company": "IDSil",
+    "email": "navpreet.k@idsil.com"
+  },
+  {
+    "name": "",
+    "company": "Compass Group",
+    "email": "divya.sarin@compass-group.co.in"
+  },
+  {
+    "name": "",
+    "company": "The Wits Lab",
+    "email": "kanchan.tigga@thewitslab.com"
+  },
+  {
+    "name": "",
+    "company": "White Lotus Corporation",
+    "email": "career@whitelotuscorporation.com"
+  },
+  {
+    "name": "",
+    "company": "Saviesa Infotech",
+    "email": "hr@saviesainfotech.com"
+  },
+  {
+    "name": "",
+    "company": "CBRE",
+    "email": "amit.kumar5@cbre.co.in"
+  },
+  {
+    "name": "",
+    "company": "CBRE",
+    "email": "arun.kumar2@cbre.co.in"
+  },
+  {
+    "name": "",
+    "company": "Sutherland Global",
+    "email": "ayesha.munirsayyed@sutherlandglobal.com"
+  },
+  {
+    "name": "",
+    "company": "Grewon",
+    "email": "hr@grewon.com"
+  },
+  {
+    "name": "",
+    "company": "Epiphany Infotech",
+    "email": "hr@epiphanyinfotech.com"
+  },
+  {
+    "name": "",
+    "company": "UpwardIQ",
+    "email": "ashak@upwardiq.com"
+  },
+  {
+    "name": "",
+    "company": "David Adamson Group",
+    "email": "smk@davidadamsongroup.com"
+  },
+  {
+    "name": "",
+    "company": "Soft Elevation",
+    "email": "shanvi.chauhan@softelevation.com"
+  },
+  {
+    "name": "",
+    "company": "Geek Informatic",
+    "email": "hr3@geekinformatic.com"
+  },
+  {
+    "name": "",
+    "company": "Aryavrat Infotech",
+    "email": "resumes@aryavratinfotech.com"
+  },
+  {
+    "name": "",
+    "company": "E2M Solutions",
+    "email": "monap@e2msolutions.com"
+  },
+  {
+    "name": "",
+    "company": "SpaceO Group",
+    "email": "krushangi.shah@spaceogroup.com"
+  },
+  {
+    "name": "",
+    "company": "Ninja Technolabs",
+    "email": "rina@ninjatechnolabs.com"
+  },
+  {
+    "name": "",
+    "company": "Moon Technolabs",
+    "email": "shivani@moontechnolabs.com"
+  },
+  {
+    "name": "",
+    "company": "Cloudstakes",
+    "email": "vrushalibhatt@cloudstakes.com"
+  },
+  {
+    "name": "",
+    "company": "Recruits Right",
+    "email": "hr@recruitsright.com"
+  },
+  {
+    "name": "",
+    "company": "Synergiz Global",
+    "email": "jaymala.d@synergizglobal.com"
+  },
+  {
+    "name": "",
+    "company": "Systemian",
+    "email": "nmanian@systemian.com"
+  },
+  {
+    "name": "",
+    "company": "Alakmalak",
+    "email": "career@alakmalak.com"
+  },
+  {
+    "name": "",
+    "company": "NR Consulting",
+    "email": "hema.s@nrconsulting.com"
+  },
+  {
+    "name": "",
+    "company": "iCoderz Solutions",
+    "email": "career@icoderzsolutions.com"
+  },
+  {
+    "name": "",
+    "company": "SourceMash",
+    "email": "nehasaini@sourcemash.com"
+  },
+  {
+    "name": "",
+    "company": "ACCF",
+    "email": "pranab.baruah@accf.in"
+  },
+  {
+    "name": "",
+    "company": "NLB Tech",
+    "email": "jaswanth.kp@nlbtech.in"
+  },
+  {
+    "name": "",
+    "company": "Aviox Technologies",
+    "email": "hr@avioxtechnologies.com"
+  },
+  {
+    "name": "",
+    "company": "Base2Brand",
+    "email": "hr@base2brand.com"
+  },
+  {
+    "name": "",
+    "company": "Ship Global",
+    "email": "ishvinder.singh@shipglobal.in"
+  },
+  {
+    "name": "",
+    "company": "Experis",
+    "email": "harshavardhan.chinnam@in.experis.com"
+  },
+  {
+    "name": "",
+    "company": "Guidance Plus",
+    "email": "hrexecutive02@guidanceplus.in"
+  },
+  {
+    "name": "",
+    "company": "Human Talent Expert",
+    "email": "kalavathim@humantalentexpert.com"
+  },
+  {
+    "name": "",
+    "company": "Guidance Plus",
+    "email": "hrexecutive03@guidanceplus.in"
+  },
+  {
+    "name": "",
+    "company": "NodeFlix",
+    "email": "hr@nodeflix.com"
+  },
+  {
+    "name": "",
+    "company": "FX Consulting",
+    "email": "bhawna@fxconsulting.in"
+  },
+  {
+    "name": "",
+    "company": "Novotree Minds",
+    "email": "shruthi@novotreeminds.com"
+  },
+  {
+    "name": "",
+    "company": "Genie HR",
+    "email": "rajat.thakur@geniehr.com"
+  },
+  {
+    "name": "",
+    "company": "WheelsEye",
+    "email": "anjali.dhiman@wheelseye.com"
+  },
+  {
+    "name": "",
+    "company": "Seraphic",
+    "email": "hr@seraphic.io"
+  },
+  {
+    "name": "",
+    "company": "Vitsus",
+    "email": "harshit@vitsus.com"
+  },
+  {
+    "name": "",
+    "company": "Sgurr Energy",
+    "email": "utkarsha.khopade@sgurrenergy.com"
+  },
+  {
+    "name": "",
+    "company": "Agential",
+    "email": "harshavardhan@agential.co"
+  },
+  {
+    "name": "",
+    "company": "Agential",
+    "email": "kashish.s@agential.co"
+  },
+  {
+    "name": "",
+    "company": "Verinite",
+    "email": "ankita.ghorai@verinite.com"
+  },
+  {
+    "name": "",
+    "company": "Sakon",
+    "email": "rohit.tavar@sakon.com"
+  },
+  {
+    "name": "",
+    "company": "Sakon",
+    "email": "talentacquisition@sakon.com"
+  },
+  {
+    "name": "",
+    "company": "Tata Elxsi",
+    "email": "amulya.g@tataelxsi.co.in"
+  },
+  {
+    "name": "",
+    "company": "Roxiler",
+    "email": "nancy@roxiler.com"
+  },
+  {
+    "name": "",
+    "company": "PTC",
+    "email": "shpradhan@ptc.com"
+  },
+  {
+    "name": "",
+    "company": "Credence RCM",
+    "email": "aditi.gupta@in.credencerm.com"
+  },
+  {
+    "name": "",
+    "company": "Capgemini",
+    "email": "lipsa.panda@capgemini.com"
+  },
+  {
+    "name": "",
+    "company": "Future Links",
+    "email": "koyel@future-links.in"
+  },
+  {
+    "name": "",
+    "company": "Wal Systems",
+    "email": "careers@walsystems.com"
+  },
+  {
+    "name": "",
+    "company": "RecWire",
+    "email": "rec2@recwire.in"
+  },
+  {
+    "name": "",
+    "company": "Credence RCM",
+    "email": "ayesha.shaikh@in.credencerm.com"
+  },
+  {
+    "name": "",
+    "company": "ActivePro Engineers",
+    "email": "jay.thakkar@activeproengineers.com"
+  },
+  {
+    "name": "",
+    "company": "Venkateshwar Hospitals",
+    "email": "monika@venkateshwarhospitals.com"
+  },
+  {
+    "name": "",
+    "company": "Interlink Engage",
+    "email": "punendra.singh@interlinkengage.com"
+  },
+  {
+    "name": "",
+    "company": "Dexian",
+    "email": "naman.choudhary@dexian.com"
+  },
+  {
+    "name": "",
+    "company": "Futran Solutions",
+    "email": "brohan@futransolutions.com"
+  },
+  {
+    "name": "",
+    "company": "CBRE",
+    "email": "leo.carvalho@cbre.com"
+  },
+  {
+    "name": "",
+    "company": "Hypo HR",
+    "email": "copilot@hypohr.com"
+  },
+  {
+    "name": "",
+    "company": "UST",
+    "email": "shalaka.rathi@ust.com"
+  },
+  {
+    "name": "",
+    "company": "Wipro",
+    "email": "sadhna.rawat2@wipro.com"
+  },
+  {
+    "name": "",
+    "company": "IBR Infotech",
+    "email": "hr3@ibrinfotech.com"
+  },
+  {
+    "name": "",
+    "company": "Varite",
+    "email": "anuradha.singh@varite.com"
+  },
+  {
+    "name": "",
+    "company": "Dotsquares",
+    "email": "dimple.yadav@dotsquares.com"
+  },
+  {
+    "name": "",
+    "company": "OzTechWork",
+    "email": "muhammad.ahsan@oztechwork.com"
+  },
+  {
+    "name": "",
+    "company": "Webstones",
+    "email": "hr@webstones.in"
+  },
+  {
+    "name": "",
+    "company": "Webstones",
+    "email": "hr.webstones@gmail.com"
+  },
+  {
+    "name": "",
+    "company": "Soften Creative",
+    "email": "hr@softencreative.com"
+  },
+  {
+    "name": "",
+    "company": "ManekTech",
+    "email": "payal.patel@manektech.com"
+  },
+  {
+    "name": "",
+    "company": "Pearl Organisation",
+    "email": "ayushis@pearlorganisation.com"
+  },
+  {
+    "name": "",
+    "company": "Manglam Infra",
+    "email": "talentacquisition@manglaminfra.com"
+  },
+  {
+    "name": "",
+    "company": "Expinator",
+    "email": "simran@expinator.com"
+  },
+  {
+    "name": "",
+    "company": "Sriggle Tech",
+    "email": "kajal.singh@sriggle.tech"
+  },
+  {
+    "name": "",
+    "company": "World Web Technology",
+    "email": "career@worldwebtechnology.com"
+  },
+  {
+    "name": "",
+    "company": "TWSOL",
+    "email": "sindoora.k@twsol.com"
+  },
+  {
+    "name": "",
+    "company": "KrishaWeb",
+    "email": "career@krishaweb.com"
+  },
+  {
+    "name": "",
+    "company": "InheritX",
+    "email": "priya.b@inheritx.com"
+  },
+  {
+    "name": "",
+    "company": "Oriental Consultants",
+    "email": "career@orientalconsultants.in"
+  },
+  {
+    "name": "",
+    "company": "WebIndia Inc",
+    "email": "vaibhavi@webindiainc.com"
+  },
+  {
+    "name": "",
+    "company": "Co-Worker Tech",
+    "email": "ikra.fatima@co-workertech.com"
+  },
+  {
+    "name": "",
+    "company": "Testeem Solutions",
+    "email": "preksha@testeemsolutions.com"
+  },
+  {
+    "name": "",
+    "company": "Vish USA",
+    "email": "ben@vishusa.com"
+  },
+  {
+    "name": "",
+    "company": "Webspero",
+    "email": "hr@webspero.com"
+  },
+  {
+    "name": "",
+    "company": "Veintes Tech",
+    "email": "hr@veintestech.com"
+  },
+  {
+    "name": "",
+    "company": "IMG Global Infotech",
+    "email": "hr@imgglobalinfotech.com"
+  },
+  {
+    "name": "",
+    "company": "RIL",
+    "email": "zenon.soans@ril.com"
+  },
+  {
+    "name": "",
+    "company": "Khan Chacha",
+    "email": "data.analyst@khanchacha.com"
+  },
+  {
+    "name": "",
+    "company": "Xomic",
+    "email": "hr@xomic.co.in"
+  },
+  {
+    "name": "",
+    "company": "QualySec",
+    "email": "hr@qualysec.com"
+  },
+  {
+    "name": "",
+    "company": "Kustodian Life",
+    "email": "harsh@kustodian.life"
+  },
+  {
+    "name": "",
+    "company": "BCG",
+    "email": "singh.kanishka@bcg.com"
+  },
+  {
+    "name": "",
+    "company": "CodeByte Solutions",
+    "email": "hr@codebyte.solutions"
+  },
+  {
+    "name": "",
+    "company": "AuroIM",
+    "email": "recruit@auroim.com"
+  },
+  {
+    "name": "",
+    "company": "Sigmoid Analytics",
+    "email": "anu.s@sigmoidanalytics.com"
+  },
+  {
+    "name": "",
+    "company": "JLL",
+    "email": "nitin.kumar@jll.com"
+  },
+  {
+    "name": "",
+    "company": "Reeva Digital",
+    "email": "hello@reeva.digital"
+  },
+  {
+    "name": "",
+    "company": "FreshCodes",
+    "email": "hr@freshcodes.in"
+  },
+  {
+    "name": "",
+    "company": "AppBay Tech",
+    "email": "haidersiddiqui@appbaytech.com"
+  },
+  {
+    "name": "",
+    "company": "Dvij Infotech",
+    "email": "payal@dvijinfotech.com"
+  },
+  {
+    "name": "",
+    "company": "GrowthEye",
+    "email": "tulsi@growtheye.io"
+  },
+  {
+    "name": "",
+    "company": "Pylon MC",
+    "email": "ashwini.kalligudda@pylonmc.com"
+  },
+  {
+    "name": "",
+    "company": "Excent Solutions",
+    "email": "hr@excentsolutions.com"
+  },
+  {
+    "name": "",
+    "company": "Rupee112",
+    "email": "karishma@rupee112.com"
+  },
+  {
+    "name": "",
+    "company": "Rupee112",
+    "email": "hr@rupee112.com"
+  },
+  {
+    "name": "",
+    "company": "MediaTrenz",
+    "email": "hr@mediatrenz.com"
+  },
+  {
+    "name": "",
+    "company": "Gemini US",
+    "email": "mgalle@gemini-us.com"
+  },
+  {
+    "name": "",
+    "company": "MDP Infra",
+    "email": "hr@mdpinfra.in"
+  },
+  {
+    "name": "",
+    "company": "Technogetic",
+    "email": "hr@technogetic.com"
+  },
+  {
+    "name": "",
+    "company": "iTechnoLabs",
+    "email": "simran.lamba@itechnolabs.biz"
+  },
+  {
+    "name": "",
+    "company": "SpaceO",
+    "email": "jigyasha.dhanotia@spaceo.in"
+  },
+  {
+    "name": "",
+    "company": "Pragyawan",
+    "email": "vaishali.bhardwaj@pragyawan.com"
+  },
+  {
+    "name": "",
+    "company": "Codex Geeks",
+    "email": "hr@codexgeeks.com"
+  },
+  {
+    "name": "",
+    "company": "Genpact",
+    "email": "tanu.sharma3@genpact.com"
+  },
+  {
+    "name": "",
+    "company": "Trigent",
+    "email": "subhalatha_p@trigent.com"
+  },
+  {
+    "name": "",
+    "company": "Flamingo Infinite",
+    "email": "divya.suvarna@flamingoinfinite.com"
+  },
+  {
+    "name": "",
+    "company": "GTF Technologies",
+    "email": "jobs@gtftechnologies.com"
+  },
+  {
+    "name": "",
+    "company": "Intuit",
+    "email": "qbcares@intuit.com"
+  },
+  {
+    "name": "",
+    "company": "Glocify",
+    "email": "hr@glocify.com"
+  },
+  {
+    "name": "",
+    "company": "Vedlogic",
+    "email": "careers@vedlogic.com"
+  },
+  {
+    "name": "",
+    "company": "Excent Solutions",
+    "email": "amitap@excentsolutions.com"
+  },
+  {
+    "name": "",
+    "company": "FreeBeez",
+    "email": "nitu@freebeez.in"
+  },
+  {
+    "name": "",
+    "company": "Motivity Labs",
+    "email": "swapna.malluri@motivitylabs.com"
+  },
+  {
+    "name": "",
+    "company": "Koncord Clinical",
+    "email": "bhanu@koncordclinical.com"
+  },
+  {
+    "name": "",
+    "company": "Quess Corp",
+    "email": "anusha.yeddu@quesscorp.com"
+  },
+  {
+    "name": "",
+    "company": "Ekcel Inc",
+    "email": "hemanth.k@ekcelinc.com"
+  },
+  {
+    "name": "",
+    "company": "Ritwik Infotech",
+    "email": "suresh@ritwikinfotech.com"
+  },
+  {
+    "name": "",
+    "company": "Voxel1",
+    "email": "jobs@voxel1.com"
+  },
+  {
+    "name": "",
+    "company": "VirtuesTech",
+    "email": "likitha.t@virtuestech.com"
+  },
+  {
+    "name": "",
+    "company": "Nway Tech",
+    "email": "nnagar@nwaytech.com"
+  },
+  {
+    "name": "",
+    "company": "SRR Projects",
+    "email": "jobs@srrprojects.com"
+  },
+  {
+    "name": "",
+    "company": "TeizoSoft",
+    "email": "chandrak@teizosoft.com"
+  },
+  {
+    "name": "",
+    "company": "CodeEthics",
+    "email": "shruti.pandey@codeethics.in"
+  }
+]

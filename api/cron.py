@@ -31,7 +31,7 @@ FILE_PATH = os.path.join(
     BASE_DIR,
     "..",
     "contact",
-    "contacts_cron.json"
+    "contacts_cr.json"
 )
 
 with open(FILE_PATH, "r") as file:

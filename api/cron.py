@@ -16,7 +16,6 @@ GMAIL_USER = os.getenv("GMAIL_USER")
 GMAIL_PASS = os.getenv("GMAIL_PASS")
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_KEY = os.getenv("SUPABASE_API_KEY")
-RESUME_PATH = "./Arpit_Kumar_Singh_IIT_BHU.pdf"
 DELAY_SECONDS = 3
 
 supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
@@ -27,11 +26,12 @@ BATCH_SIZE = 100
 START_DATE = date(2026, 7, 14)
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+RESUME_PATH = os.path.join(BASE_DIR, "Arpit_Kumar_Singh_IIT_BHU.pdf")
 FILE_PATH = os.path.join(
     BASE_DIR,
     "..",
     "contact",
-    "contacts_cr.json"
+    "contacts_cron.json"
 )
 
 with open(FILE_PATH, "r") as file:
@@ -66,6 +66,9 @@ def todays_batch():
     start_idx = batch_number * 100
     end_idx = start_idx + 100
 
+    if len(CONTACTS)<=start_idx:
+        return []
+    
     batch = CONTACTS[start_idx:end_idx]
 
     print("Starting Index:", start_idx)
@@ -133,8 +136,8 @@ def build_message(company_name: str, to_email: str, name:str) -> MIMEMultipart:
 
     if os.path.exists(RESUME_PATH):
         with open(RESUME_PATH, "rb") as f:
-            part = MIMEApplication(f.read(), Name="Arpit_Kumar_Singh_IIT.pdf")
-        part["Content-Disposition"] = 'attachment; filename="Arpit_Kumar_Singh_IIT.pdf"'
+            part = MIMEApplication(f.read(), Name="Arpit_Kumar_Singh_IIT_BHU.pdf")
+        part["Content-Disposition"] = 'attachment; filename="Arpit_Kumar_Singh_IIT_BHU.pdf"'
         msg.attach(part)
 
     return msg
@@ -183,3 +186,4 @@ class handler(BaseHTTPRequestHandler):
         self.wfile.write(json.dumps(result).encode())
         return
     
+# run_my_task()

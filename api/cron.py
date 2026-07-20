@@ -31,7 +31,7 @@ FILE_PATH = os.path.join(
     BASE_DIR,
     "..",
     "contact",
-    "contacts_cron.json"
+    "contacts.json"
 )
 
 with open(FILE_PATH, "r") as file:
@@ -178,6 +178,16 @@ def run_my_task():
 
 class handler(BaseHTTPRequestHandler):
     def do_GET(self):
+        auth_header = self.headers.get("Authorization")
+        expected = f"Bearer {os.getenv('CRON_SECRET')}"
+
+        if auth_header != expected:
+            self.send_response(401)
+            self.send_header("Content-type", "application/json")
+            self.end_headers()
+            self.wfile.write(json.dumps({"error": "unauthorized"}).encode())
+            return
+
         result = run_my_task()
 
         self.send_response(200)
@@ -185,5 +195,3 @@ class handler(BaseHTTPRequestHandler):
         self.end_headers()
         self.wfile.write(json.dumps(result).encode())
         return
-    
-# run_my_task()

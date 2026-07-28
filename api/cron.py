@@ -16,12 +16,12 @@ GMAIL_USER = os.getenv("GMAIL_USER")
 GMAIL_PASS = os.getenv("GMAIL_PASS")
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_KEY = os.getenv("SUPABASE_API_KEY")
-DELAY_SECONDS = 3
+DELAY_SECONDS = 2
 
 supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 IST = ZoneInfo("Asia/Kolkata")
-BATCH_SIZE = 100
+BATCH_SIZE = 50
 
 START_DATE = date(2026, 7, 14)
 
@@ -31,7 +31,7 @@ FILE_PATH = os.path.join(
     BASE_DIR,
     "..",
     "contact",
-    "contacts.json"
+    "contacts_cr.json"
 )
 
 with open(FILE_PATH, "r") as file:
@@ -63,8 +63,8 @@ def todays_batch():
 
     print("Current Batch Number:", batch_number)
 
-    start_idx = batch_number * 100
-    end_idx = start_idx + 100
+    start_idx = batch_number * 50
+    end_idx = start_idx + 50
 
     if len(CONTACTS)<=start_idx:
         return []

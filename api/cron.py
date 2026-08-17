@@ -21,7 +21,7 @@ DELAY_SECONDS = 2
 supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 IST = ZoneInfo("Asia/Kolkata")
-BATCH_SIZE = 75
+BATCH_SIZE = 60
 
 START_DATE = date(2026, 7, 14)
 
@@ -63,10 +63,11 @@ def todays_batch():
 
     print("Current Batch Number:", batch_number)
 
-    start_idx = batch_number * 75
-    end_idx = start_idx + 75
+    start_idx = batch_number * 60
+    end_idx = start_idx + 60    
 
     if len(CONTACTS)<=start_idx:
+        print("All contacts have been processed. No more batches to send.")
         return []
     
     batch = CONTACTS[start_idx:end_idx]
